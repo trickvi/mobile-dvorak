@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-13.dtd">
+<Trans scribe="Helga Birgisdóttir (Gunnar Hrafn Hrafnbjargarson)" audio_filename="006_04_04_05" version="4" version_date="051212">
+<Speakers>
+<Speaker id="spk1" name="015" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="010" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk3" name="018" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="021" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk5" name="020" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk6" name="072" check="no" type="male" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="Umræður á Alþingi - Fundarstjórn forseta"/>
+</Topics>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="1101.166" topic="to1">
+<Turn startTime="0" endTime="9.175" speaker="spk1 spk2">
+<Sync time="0"/>
+<Who nb="1"/>
+já u háttvirtur fimmti þingmaður # Norðvesturkjördæmis Guðjón_A._Kristjánsson hefur kvatt sér hljóðs um fundarstjórn forseta
+<Who nb="2"/>
+fundarstjórn forseta
+</Turn>
+<Turn speaker="spk2" startTime="9.175" endTime="44.583">
+<Sync time="9.175"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+<Sync time="12.666"/>
+já hæstvirtur forseti
+<Sync time="15.718"/>
+ég hefði nú í fyrsta lagi # viljað beina þeirri spurningu til hæstvirts forseta # hversu lengi hann hyggist halda áfram umræðunni
+<Sync time="26.694"/>
+en síðan er líka # efnislegt sem ég hefði viljað # víkja að hæstvirtum forseta ef að hann gæti hér úr ræðustól # lagt okkur einhverjar leiðbeiningu hér háttvirtum þingmönnum # í umræðum um þetta mál
+<Sync time="44.583"/>
+</Turn>
+<Turn speaker="spk2" startTime="44.583" endTime="99.617">
+en mér finnst hafa komið fram hér í # umræðunum í dag að # u með svona þingsályktanir eins og við höfum verið að ræða hér # bæri lítið að gera # þyrfti ekki sérstaklega að gæta þess 
+<Event desc="hljóð í bakgrunni" type="noise" extent="begin"/>
+að
+<Event desc="hljóð í bakgrunni" type="noise" extent="end"/>
+ þær gengju fram # eftir efni sínu
+<Sync time="68.29"/>
+og þar sem ég veit að hæstvirtur forseti er náttúrlega með þingreyndustu mönnum og # þekkir þingsköp og alla málsmeðferð # inn og út # að þá upplýsi hann okkur háttvirta þingmenn um það # hvað honum finnist um það # ef að sú staða kemur upp að við ljúkum máli þessu # án þess að s- samþykktin sem gerð var hér á háttvirtu Alþingi með samhljóða atkvæðum fjörutíu_og_níu þingmanna fái með neinum hætti afgreiðslu
+</Turn>
+<Turn speaker="spk1" startTime="99.617" endTime="127.651">
+<Sync time="99.617"/>
+ja af þessu tilefni vil ég segja að ég hafði hugsað mér að ljúka þessu máli 
+<Sync time="103.798"/>
+það er um þingsályktuna- lyktanir að þær # beinast til # að öllu jöfnu til einstakra ráðherra en að sjálfsögðu getur Alþingi endurskoðað afstöðu sína # og og hrundið fyrri ályktun með annarri nýrri eins og háttvirtum þingmanni er kunnugt
+<Sync time="121.205"/>
+háttvirtur annar þingmaður Norðvesturkjördæmis Jóhann_Ársælsson tekur til máls
+</Turn>
+<Turn speaker="spk3" startTime="127.651" endTime="160.301">
+<Sync time="127.651"/>
+já hæstvirtur forseti
+<Sync time="134.521"/>
+e # nú veit ég svo sem ekki hvað eru margir á mælendaskránni
+<Sync time="140.726"/>
+ég geri ráð fyrir því að að # hæstvirtur forseti ætli að halda he- umræðunni áfram
+<Sync time="148.293"/>
+en ég hefði áhuga fyrir því að vita hvu lengi hve lengi hæstvirtur forseti ætlar að gera það
+<Sync time="154.12"/>
+varla
+<Event desc="vadla" type="pronounce" extent="previous"/>
+ getur það nú verið verið mjög lengi því að ekki hefur verið gert ráð fyrir því að hér væru kvöldfundir
+<Sync time="160.301"/>
+</Turn>
+<Turn speaker="spk3" startTime="160.301" endTime="186.188">
+þannig að mig langar að spyrja hæstvirtan forseta um það hvursu lengi umræðan eigi að standa # eða mun henni ljúka
+<Sync time="171.029"/>
+hvursu lengi sem að hér # verður talað í þessum ræðustól
+<Sync time="177.223"/>
+
+<Comment desc="þögn"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="186.188" endTime="209.104">
+<Sync time="186.188"/>
+ég hafði sagt að ég hafði hugsað mér það að ljúka umræðunni háttvirtur þingmaður 
+<Sync time="191.104"/>
+það eru tveir háttvirtir þingmenn á á á mælendaskrá og
+<Sync time="196.465"/>
+og ég hygg að # að það eigi að vera unnt að ljúka umræðunni í kvöld
+<Sync time="202.846"/>
+það eru mörg mál sem bíða afgreiðslu og og gott ef hægt væri að ljúka þessu máli
+</Turn>
+<Turn speaker="spk3" startTime="209.104" endTime="248.631">
+<Sync time="209.104"/>
+ja hæst- hæstvirtur forseti 
+<Sync time="212.53"/>
+mér finnst það ekki # góð framkoma við háttvirta þingmenn # ef að ekki er # gert ráð fyrir því # þegar að menn ætla hér að hafa kvöldfundi
+<Sync time="227.855"/>
+og mér finnst það þess vegna að þegar að það stendur til # að þá eigi svona að koma því á framfæri þannig að þingmenn geti # mætt hér til þeirrar umræðu sem er # ef að á að hafa hana fram eftir kvöldi # og menn geti gert ráð fyrir ráð fyrir því
+<Sync time="248.631"/>
+</Turn>
+<Turn speaker="spk3" startTime="248.631" endTime="288.639">
+u það er líka þannig að það hefur ekki verið gert ráð fyrir því að hér væri neitt # u matarkyns fyrir þingmenn þannig að það er nú ekki # venja hér heldur að að menn hafi hér langa fundi fram eftir kvöldi án þess að # án þess að þannig sé nú # fyrir hlutunum haft
+<Sync time="270.399"/>
+og hæstvirtur forseti er nú að taka upp ný vinnubrögð ef hann ætlar ekki að að að gera vel við sína þingmenn 
+<Sync time="276.978"/>
+hann hefur fram að þessu gert það og # ég hef svo sem litla ástæðu til að halda að hann ætli að bregða þeim vana sínum # en spyr að því svona í leiðinni
+<Sync time="286.147"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="288.639" endTime="318.73">
+<Sync time="288.639"/>
+
+<Comment desc="ræskir sig"/>
+ nú er það svo að # að tveir tveir háttvirtir þingmenn eru á mælendaskrá en # fyrir liggur að hæstvirtur ráðherra getur ekki verið við á morgun
+<Sync time="301.159"/>
+o- og ég hafði haldið að þessir tveir háttvirtu þingmenn kysu að # að beina ráð- máli sínu til ráðherra frekar en að halda ræðu sína á morgun þegar að 
+<Event desc="lækkar róm" type="pronounce" extent="begin"/>
+hæstvirtur ráðherra getur ekki verið viðlátinn
+<Event desc="lækkar róm" type="pronounce" extent="end"/>
+
+<Sync time="313.048"/>
+nú veit ég ekki hvað þeir segja um það sem sem ekki hafa talað sig dauða
+<Sync time="318.73"/>
+</Turn>
+<Turn speaker="spk1" startTime="318.73" endTime="332.57">
+háttvirtur fimmti þingmaður # Norðvesturkjördæmis Guðjón_A._Kristjánsson tekur til máls
+<Sync time="325.42"/>
+
+<Comment desc="raddir í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="332.57" endTime="368.146">
+<Sync time="332.57"/>
+hæstvirtur forseti # undir þessum lið um fundarstjórn forseta # þá # vil ég vekja athygli hæstvirts forseta á því að # þú sú þingsályktun sem að komið hefur hér mikið inn í umræðuna í dag og verið svona # bitbein í þessari umræðu dálítið # hún var samþykkt með því fororði að málinu væri vísað til ríkisstjórnarinnar en ekki einstaks ráðherra # og # hefði átt að framkvæmast # sem slík eftir efni sínu
+<Sync time="368.146"/>
+</Turn>
+<Turn speaker="spk2" startTime="368.146" endTime="415.884">
+við höfum hins vegar þá kannski fullan skilning á því hér í háttvirtu Alþingi að að málið gæti verið með þeim hætti að # vegna stöðunnar í Þróunarsjóðnum að menn vildu hinkra með niðurstöðu málsins
+<Sync time="380.581"/>
+ég vil mælast til þess við # hæstvirtan ráðherra 
+<Event desc="einhver ræskir sig" type="noise" extent="begin"/>
+#
+<Event desc="einhver ræskir sig" type="noise" extent="end"/>
+ nei hæstvirtan forseta þingsins að ef að menntamálaráðherra kæmi hér til umræðunnar á morgun að þar sem að sjávarútvegsráðherra er nú bæði sjávarútvegsráðherra og menntamálaráðherra í dag að þá fáum við væntanlega menntamálaráðherra hér á morgun ef að hann víkur # af þinginu # einhv- annarra starfa vegna 
+<Event desc="raddir í bakgrunni, forseti hvíslast á við einhvern" type="noise" extent="begin"/>
+# og þá gætum við átt
+<Event desc="raddir í bakgrunni, forseti hvíslast á við einhvern" type="noise" extent="end"/>
+ átt málefnalega umræðu við hæstvirtan menntamálaráðherra # 
+<Event desc="raddir í bakgrunni, forseti hvíslast á við einhvern" type="noise" extent="begin"/>
+um þetta mál
+<Sync time="415.884"/>
+það væri fróðlegt að fá það upplýst hvort að
+<Event desc="raddir í bakgrunni, forseti hvíslast á við einhvern" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="415.884" endTime="426.282">
+ málið er þannig í pottinn búið að hæstvirtur menntamálaráðherra verði hér viðstaddur umræðuna ef hún gæti haldið áfram á morgun hæstvirtur forseti
+</Turn>
+<Turn speaker="spk1" startTime="426.282" endTime="451.184">
+<Sync time="426.282"/>
+það er u ég vil vekja athygli háttvirts þingmanns á því að við erum hér að tala um þriðju umræðu við þriðju umræðu og þetta mál ha- u u fellur ekki undir hæstvirtan menntamálaráðherra
+<Sync time="436.43"/>
+háttvirtur # tíundi þingmaður Suðurkjördæmis Jón_Gunnarsson hefur kvatt sér hljóðs um störf þingins # nei um fundarstjórn forseta fyr- 
+<Event desc="lágróma" type="pronounce" extent="begin"/>
+já hvað er þá búið að standa hérna
+<Event desc="lágróma" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="451.184" endTime="468.862">
+<Sync time="451.184"/>
+herra forseti mér er svolítill vandi á höndum
+<Sync time="455.916"/>
+u # ég vil nú byrja á því að þakka hæstvirtum sjávarútvegsráðherra fyrir það að vera hér við umræðuna en nú er ég næstur á mælendaskrá og eftir að ég hef talað þá að þá má ég ekki tala meira í þessu máli
+<Sync time="468.862"/>
+</Turn>
+<Turn speaker="spk4" startTime="468.862" endTime="497.075">
+u # ég hefði viljað eiga möguleika á því að eiga orðastað við hæstvirtan menntamálaráðherra # og þá í framhaldi af orðum hæstvirts u sjávarútvegsráðherra sem að hefur vísað ábyrgð # u á parti þessa máls til hæstvirts menntamálaráðherra jafnvel þó að að það frumvarp sem við erum að ræða hér heyri ekki heyri ekki undir þann hæstvirtan ráðherra
+</Turn>
+<Turn speaker="spk4 spk1" startTime="497.075" endTime="525.637">
+<Sync time="497.075"/>
+<Who nb="1"/>
+u # það sem að ég þyrfti helst á að halda fyrir seinni ræðu mína í þessu máli af því að nú er þetta þriðja umræða eins og hæstvirtur forseti hefur hefur bent á 
+<Event desc="bankað í borð" type="noise" extent="instantaneous"/>
+ u er að geta átt orðastað við báða hæstvirta ráðherrana
+<Event desc="forseti ræskir sig" type="noise" extent="previous"/>
+ hér á þessum 
+<Event desc="bjalla" type="noise" extent="begin"/>
+sí- þessum fundi
+<Who nb="2"/>
+ég vil vekja athygli hæstvirts þingmanns á því að þetta mál sem við fjöllum um hér fellur ekki undir undir u hæstvirtan menntamálaráðherra
+<Sync time="525.637"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+það er af þeim sökum alg- fullkomlega
+<Event desc="bjalla" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk4 spk1" startTime="525.637" endTime="540.04">
+ óeðlilegt að # að setja fram slíkar kröfur fullkomlega óeðlilegt # og u ég vil beina því til háttvirts þingmanns að vera þinglegan í sinni ræðu
+</Turn>
+<Turn speaker="spk4" startTime="540.04" endTime="563.681">
+<Sync time="540.04"/>
+virðulegi forseti u # víkja aðeins að # hinum hlutunum sem háttvirtur þingmaður Guðjón_Arnar_Kristjánsson u vísaði til # virðulegs forseta varðandi það u hvernig # á
+<Event desc="forseti ræskir sig" type="noise" extent="previous"/>
+ að taka ályktunum þingsins þingsályktunum sem hér eru eru samþykktar og fluttar
+<Sync time="563.681"/>
+</Turn>
+<Turn speaker="spk4" startTime="563.681" endTime="600.454">
+u # ég vil eins og háttvirtur þingmaður Guðjón_Arnar_Kristjánsson vísa þá til mikillar þingreynslu u háttvirts eða hæstvirts forseta og ekki síður kannski til þess að að þessi þingsályktunartillaga sem að háttvirtur þingmaður var að vísa til # kom hér til afgreiðslu og og hæstvirtur forseti greiddi þeirri þingsályktunartilögu atkvæði sitt á þeim tíma
+<Sync time="586.385"/>
+u spyrja
+<Event desc="spurja" type="pronounce" extent="previous"/>
+ hvort að að það sé yfirleitt venja að flokka texta þingsályktunartillögur í í aðalsetningar sem fara á eftir
+<Event desc="ettir" type="pronounce" extent="previous"/>
+ # og aukasetningar sem að enginn þarf að að fara eftir 
+<Sync time="600.454"/>
+</Turn>
+<Turn speaker="spk4" startTime="600.454" endTime="629.264">
+ástæðan fyrir þessu þessari spurningu er einfaldlega sú að hæstvirtur sjávarútvegsráðherra sagði hér í umræðunni að u sú þingsályktunartillaga sem verið er að vísa hér til # um að Þróunarsjóður_sjávarútvegsins sem nú á að fara að leggja niður # ætti að taka þátt í að fjármagna u varðveislugildi báta og og skipa # að þetta væri bara aukasetning þar sem Þróunarsjóðurinn væri nefndur og því bæri ekki að að taka það þannig að það þyrfti í sjálfu sér að fara eftir
+<Event desc="forseti ræskir sig" type="noise" extent="previous"/>
+ því
+</Turn>
+<Turn speaker="spk1" startTime="629.264" endTime="651.0">
+<Sync time="629.264"/>
+ég vil vekja athygli háttvirts þingmanns á að hann er hér kominn í efnislegar umræður
+<Sync time="633.407"/>
+háttvirtur þingmaður kvaddi kvatti kvaddi sér hljóðs um fundarstjórn forseta og ég vil biðja háttvirtan þingmann # að u fara að þingsköpum
+<Sync time="645.189"/>
+háttvirtur þingmaður # hefur beðið um orðið 
+</Turn>
+<Turn speaker="spk1 spk6" startTime="651.0" endTime="658.358">
+<Sync time="651.0"/>
+<Who nb="1"/>
+það er eðlilegt að háttvirtur þingmaður # geymi u almennar vangaveltur til þess
+<Who nb="2"/>
+ekki taka tímann
+</Turn>
+<Turn speaker="spk1" startTime="658.358" endTime="676.705">
+<Sync time="658.358"/>
+nóttin er löng
+<Sync time="660.222"/>
+og og háttvirtur þingmaður u ég vil biðja hann um að að taka tillit til þess sem forseti segir
+<Sync time="667.042"/>
+það er hlutverk forseta að halda hér uppi röð og reglu ég vil biðja háttvirtan þingmann að taka tillit til þess
+<Sync time="673.952"/>
+umræðutíma háttvirts þingmanns er lokið
+</Turn>
+<Turn speaker="spk1 spk4" startTime="676.705" endTime="689.519">
+<Sync time="676.705"/>
+<Who nb="1"/>
+háttvirtur 
+<Event desc="bankað í borð" type="noise" extent="instantaneous"/>
+ 
+<Event desc="skjráf í pappír" type="noise" extent="begin"/>
+háttvirtur áttundi þingmaður # háttvirtur þing- áttundi þingmaður
+<Event desc="skjráf í pappír" type="noise" extent="end"/>
+ # Norðvesturkjördæmis kvaddi sér hljóðs annaðhvort um fundarstjórn forseta eða
+<Who nb="2"/>
+fundarstjórn forse-
+</Turn>
+<Turn speaker="spk4" startTime="689.519" endTime="691.514">
+<Sync time="689.519"/>
+fundarstjórn forseta
+</Turn>
+<Turn speaker="spk5" startTime="691.514" endTime="728.083">
+<Sync time="691.514"/>
+já herra forseti
+<Sync time="697.518"/>
+í þessari # umræðu hafa komið hefur komið fram # að # það liggur fyrir hér # tillaga til þingsályktunar um að s- sjóðnum sem Alþingi hefur samþykkt # að skuli # veita # fjármagni úr sjóð sem hér er verið að samþykkja að leggja niður
+<Sync time="720.941"/>
+án þess að það hafi þá verið brugðist við samþykkt þingsályktunartillögunnar
+</Turn>
+<Turn speaker="spk5 spk1" startTime="728.083" endTime="756.394">
+<Sync time="728.083"/>
+<Who nb="1"/>
+eða þegar að umræðu um þetta mál lýkur ef að 
+<Comment desc="vefst tunga um tönn"/>
+ lýkur með þessum hætti eins og hér er stefnt að # og virðist samþykkt # þá er í sjálfu sér tillagan sem Alþingi samþykkti til þingsályktunar a- á hundrað_tuttugasta_og_fimmta löggjafarþingi marklaus 
+<Event desc="bjalla" type="noise" extent="begin"/>
+þannig að
+<Event desc="bjalla" type="noise" extent="end"/>
+ þá
+<Who nb="2"/>
+ég vil benda háttvirtum þingmanni á það sem er 
+<Event desc="skrjáf í pappír" type="noise" extent="begin"/>
+kurteis maður að u hann kvaddi sér hljóðs til að tala um fundarstjórn forseta
+<Event desc="skrjáf í pappír" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="756.394" endTime="783.384">
+<Sync time="756.394"/>
+nú hefur # háttvirtur þingmaður dottið í þá gryfju # að að hefja efnislegar umræður og og mér virðist sem háttvirtur þingmaður # vilji ekki taka tillit til orða forseta
+<Sync time="768.095"/>
+u ég vil spyrja háttvirtan þingmann hvort hann vill e g- hvort að hann hyggist hlýða # u ábendingum forseta eða ræða um efnisatriði málsins
+</Turn>
+<Turn speaker="spk5 spk1" startTime="783.384" endTime="795.838">
+<Sync time="783.384"/>
+<Who nb="1"/>
+já ég þakka fyrir góðar ábendingar hjá hæstvirtum forseta # beiðnin snýr að því að forseti fresti nú fundi
+<Who nb="2"/>
+jamm
+<Sync time="790.824"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ég er bú- hef áður sagt að ég hafi hafi hafi hugsað mér að ljúka umræðunni
+</Turn>
+<Turn speaker="spk5" startTime="795.838" endTime="804.407">
+<Sync time="795.838"/>
+já # þá er er eru það ábendingar þingmannsins til forsetans að hann endurskoði þá afst- afstöðu sína
+<Sync time="804.407"/>
+og og og í ljósi einmitt stöðu málsins að hér er verið að að ganga mjög á rétt Alþingis ef að frumvarpið verður samþykkt án þess að vilji Alþingis sem kemur fram í 
+<Event desc="bjalla" type="noise" extent="begin"/>
+</Turn>
+<Turn speaker="spk5" startTime="804.407" endTime="831.658">
+þingsályktunartillögunni sem hér er rætt oft um nái fram að ganga þannig að mín ábending til hæstvirts forseta er að hann endurskoði þá afstöðu sína um frestun fundar og fresti fundi þannig að hægt sé að fara betur ofan í (([oní])) málið
+</Turn>
+<Turn speaker="spk1 spk5" startTime="831.658" endTime="845.083">
+<Sync time="831.658"/>
+<Who nb="1"/>
+forseti forseti á erfitt með að sjá hvernig Alþingi getur samþykkt frumvarp gegn vilja sjálfs sín # háttvirtur e e eins og háttvirtur þingmaður hafði sagt # háttvirt-
+<Who nb="2"/>
+það er vandi já það er vandi forseta greinilega að ráða fram út vanda sínum
+</Turn>
+<Turn speaker="spk1" startTime="845.083" endTime="856.341">
+<Sync time="845.083"/>
+háttvirtur tíundi þingmaður Suðurkjördæmis hefur kvatt sér hljóðs um fundarstjórn forseta
+<Sync time="850.895"/>
+
+<Event desc="bjalla" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="856.341" endTime="883.905">
+<Sync time="856.341"/>
+virðulegi forseti ég kem hér upp til að ræða fundarstjórn forseta
+<Sync time="860.226"/>
+u ég er að velta fyrir mér hvort að ekki gildi sömu reglur um alla þingmenn í þingsal þegar kemur að fundarstjórn hæstvirts forseta
+<Sync time="869.283"/>
+ég kem hér upp til að # spyrja
+<Event desc="spurja" type="pronounce" extent="previous"/>
+ viðbótarspurningar við spurningu sem að forseti svaraði hér öðrum þingmanni háttvirtum # og gerði engar athugasemdir við það að sá háttvirti 
+<Event desc="einhver ræskir sig" type="noise" extent="begin"/>
+þingmaður
+<Event desc="einhver ræskir sig" type="noise" extent="end"/>
+ bæri þá spurningu hér upp
+</Turn>
+<Turn speaker="spk4 spk1" startTime="883.905" endTime="901.26">
+<Sync time="883.905"/>
+<Who nb="1"/>
+þess vegna taldi ég í sakleysi mínu að mér væri óhætt að koma hér í sama stól # og bera upp spurningu # samskonar # spurningu eða spurningu sem var var eins og og og eða viðbót við spurningu háttvirts þingmanns Guðjóns_Arnars_Kristjánssonar
+<Who nb="2"/>
+
+<Comment desc="ræskir sig"/>
+ ég hef gefið háttvirtum þingmanni orðið til þess að hann geti borið fram þá spurningu
+</Turn>
+<Turn speaker="spk4" startTime="901.26" endTime="925.846">
+<Sync time="901.26"/>
+þakka þér fyrir virðulegur forseti
+<Sync time="904.663"/>
+ég var að velta fyrir mér # í ljósi þingreynslu forseta # hvort ekki væri u hvort að hægt væri að vísa til þess í þingsályktunartillögum sem þingið hefði samþykkt með miklum meirihluta að þar væri einhver partur sem ekki bæri að taka þátt ekki bæri að taka mark á
+<Sync time="925.846"/>
+</Turn>
+<Turn speaker="spk4" startTime="925.846" endTime="966.633">
+að þar væri einhverjar aukasetningar eins og í þessari þingsályktunartillögu sem menn hafa hér verið að ræða og skiptir miklu máli í þessari umræðu # því eftir að búið er að samþykkja lög um að leggja niður sjóðinn að þá # gerist ekkert meira varðandi varðandi það
+<Sync time="939.546"/>
+u 
+<Event desc="skrjáf í pappír" type="noise" extent="begin"/>
+ef hæstvirtur forseti getur svarað þessari viðbót við spurningu háttvirts þingmanns Guðjóns_Arnar_Kristjánssonar þá þætti mér vænt um það # og vísa þá kannski til þess
+<Event desc="skrjáf í pappír" type="noise" extent="end"/>
+ að það skiptir máli upp á framhald umræðunnar og 
+<Event desc="raddir í bakgrunni" type="noise" extent="begin"/>
+þar af leiðandi fundarstjórn # hvort að u háttvirtur menntamálaráðherra verður hér í ljósi þess hvernig umræðan hefur þróast
+<Event desc="raddir í bakgrunni" type="noise" extent="end"/>
+
+<Sync time="961.804"/>
+
+<Comment desc="forseti ræðir við þingritara"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="966.633" endTime="980.204">
+<Sync time="966.633"/>
+já háttvirtur # annar þingmaður Norðvesturkjördæmis Jóhann_Ársælsson hefur kvatt sér hljóðs um fundarstjórn forseta
+<Sync time="975.273"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="980.204" endTime="1010.037">
+<Sync time="980.204"/>
+já hæstvirtur forseti
+<Sync time="982.717"/>
+ég er ekki alveg sáttur við það að hæstvirtur forseti ætli hér að # að láta umræðuna ganga hér fram eftir kvöldi # án þess að mönnum verði þá gefinn kostur á því að að gera hér hlé og # og fá einhverja næringu
+<Sync time="998.955"/>
+og ég mótmæli því líka að hér sér farið inn í kvöldfundi fram eftir nóttu eins og hæstvirtur forseti lét í veðrinu vaka hér áðan # án þess að gert sé ráð fyrir kvöldfundi
+<Sync time="1010.037"/>
+</Turn>
+<Turn speaker="spk3" startTime="1010.037" endTime="1041.958">
+það hefur ekki verið gert ráð fyrir neinum kvöldfundi hér í dag # og það er brot á þeim hefðum sem hæstvirtur forseti hefur nú virt # fram að þessu # að láta það ekki berast ef að gert er ráð fyrir kvöldfundum hér
+<Sync time="1025.145"/>
+mér finnst hæstvirtur forseti vera svolítið að þjóna sínu geðslagi ef að hann er að ef að hann er að taka einhverjar skyndiákvarðanir um það að hafa hér kvöldfundi algjörlega # án þess að vita hvursu lengi þeir munu standa # og án þess að láta þingmenn með nokkrum hætti af þessu vita
+<Sync time="1041.958"/>
+</Turn>
+<Turn speaker="spk3" startTime="1041.958" endTime="1069.113">
+mér finnst það ekki góð fundarstjórn hæstvirts forseta ef að ef að það er reyndin að svoleiðis muni vera # og og mælist nú til þess # bara við hæstvirtan forseta að hann hann hugsi sinn gang hvað þetta varðar
+<Sync time="1055.649"/>
+hér eru eru þingmenn á mælendaskrá
+<Sync time="1059.129"/>
+hér eru þingmenn sem eiga eftir möguleika til 
+<Event desc="einhver ræskir sig" type="noise" extent="begin"/>
+þess að
+<Event desc="einhver ræskir sig" type="noise" extent="end"/>
+ að ræða málið betur # og hér er fullkominn ágreiningur um framgang mála
+<Sync time="1069.113"/>
+</Turn>
+<Turn speaker="spk3" startTime="1069.113" endTime="1101.166">
+hæstvirtur # ráðherra sem að að hér hefur verið við umræðuna í dag # hefur ekki gefið nein neinn kost á neinu samkomulagi og mér finnst að það sé full ástæða til þess að þetta mál fái meiri # umræðu hér # í í framhaldinu og og þeim þingmönnum sem ekki hafa haft hugmynd um það að hér stæði til að hafa kvöldfund # verði gefinn þá kostur á því að koma hér til skjalanna # því að það eru margir sem hafa áhuga á þessu máli það veit ég vel um
+<Sync time="1099.543"/>
+
+<Comment desc="upptöku lokið"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

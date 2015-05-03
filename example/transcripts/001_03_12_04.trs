@@ -1,0 +1,1367 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-13.dtd">
+<Trans scribe="Helga Birgisdóttir (Gunnar Hrafn Hrafnbjargarson)" audio_filename="001_03_12_04" version="8" version_date="051212">
+<Topics>
+<Topic id="to1" desc="Umræður á Alþingi - Fundarstjórn forseta"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="041" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="008" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="003" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="026" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk5" name="042" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk6" name="016" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk7" name="021" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk8" name="043" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk9" name="025" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk10" name="020" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk11" name="024" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk12" name="010" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk13" name="034" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk14" name="044" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk15" name="009" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk16" name="045" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk17" name="018" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk18" name="046" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk19" name="047" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk20" name="048" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk21" name="049" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk22" name="013" check="no" type="male" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="3545.078" topic="to1">
+<Turn startTime="0" endTime="4.755" speaker="spk1">
+<Sync time="0"/>
+kannski
+<Event desc="bjalla" type="noise" extent="previous"/>
+ # en þetta er nú sagan og þannig hefur þetta gengið fyrir sig
+<Event desc="bankað í borð" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="4.755" endTime="6.012">
+<Sync time="4.755"/>
+fundarstjórn forseta
+</Turn>
+<Turn speaker="spk3" startTime="6.012" endTime="14.573">
+<Sync time="6.012"/>
+# háttvirtur sjöundi þingmaður Norðausturkjördæmis óskar að taka til máls um fundarstjórn forseta
+</Turn>
+<Turn speaker="spk2" startTime="14.573" endTime="17.927">
+<Sync time="14.573"/>
+herra forseti
+<Sync time="17.927"/>
+ég held að það sé óhjákvæmilegt eftir yfirlýsingar háttvirts þingmanns # varaformanns fjárlaganefndar # að i forseti # kalli til fundar með þingflokksformönnum # og leiti leiða til þess að ná samstöðu um framvindu umræðunnar # sem skapi fjárlaganefnd svigrúm til þess # að taka málið aftur til umræðu # og fara yfir þó það væru ekki nema forsendur fjárlaga # vegna þess að það hefur áður verið bent á það hér í dag að i forsendur fjárlaga eru gjörsamlega brostnar miðað við endurskoðuð þjóðhagsspá
+<Event desc="þjóðagspá" type="pronounce" extent="previous"/>
+</Turn>
+<Turn speaker="spk2" startTime="17.927" endTime="96.174">
+ Seðlabankans # 
+<Sync time="56.225"/>
+og hér í umræðunum hefur háttvirtur þingmaður Einar_Oddur_Kristjánsson varaformaður fjárlaganefndar talsmaður stærri stjórnarflokksins # fullyrt einnig # að forsendur fjárlaganna forsendur fjárlagafrumvarpsins sem ekkert hafa breyst í meðferðum þingsins # séu einnig brostnar þó að það sé af öðrum ástæðum heldur en Seðlabankinn hefur komist að niðurstöðu um
+<Sync time="78.809"/>
+í fyrsta lagi sagði háttvirtur þingmaður að aðgerðir Seðlabankans sem ákveðnar voru í gær # breyttu forsendum vegna þess þess einfaldlega að þær sköpuðu meiri hættu í efnahagslífinu # mundu # skapa atvinnulífinu mikinn vanda # og líklega # auka á þensluna
+<Sync time="96.174"/>
+</Turn>
+<Turn speaker="spk2" startTime="96.174" endTime="109.335">
+í öðru lagi sagði háttvirtur þingmaður # að bankakerfið sem slíkt hefði með miklu innstreymi fjármagns aukið einnig á einkaneysluna og skapað verulega hættu
+<Sync time="109.335"/>
+</Turn>
+<Turn speaker="spk2" startTime="109.335" endTime="169.221">
+þannig að háttvirtur þingmaður hefur þó með öðrum hætti verið en en við tekið undir það að forsendur fjárlaganna hafa algjörlega breyst og ég held að það hljóti að vera okkur öllum # sama (ka-) keppikeflið að fjárlög séu sem réttust og til þess að þau geti verið það þá er algjörlega nauðsynlegt að þau séu byggð á réttum forsendum og nú liggja fyrir upplýsingar um það # að forsendurnar eru að minnsta kosti # herra forseti mjög hæpnar og þess vegna hlýtur það að vera eðlilegt # að óska eftir því að við reynum með sátt og samlyndi að tryggja það # að fjárlög næsta árs verði sem allra allra best # 
+<Event desc="saman" type="pronounce" extent="begin"/>
+því að
+<Event desc="saman" type="pronounce" extent="end"/>
+ ekki veitir af í því ástandi sem efnahagslífið er nú
+<Sync time="153.743"/>
+herra forseti ég vísa í þessu sambandi til tuttugustuogþriðju greinar þingskapanna þar sem segir meðal annars með leyfi forseta 
+<Event desc="les" type="pronounce" extent="begin"/>
+vísa má máli til nefndar á hverju stigi þess sé það gert áður en umræðu er lokið þá skal henni frestað
+<Event desc="les" type="pronounce" extent="end"/>
+
+<Sync time="169.221"/>
+herra forseti 
+<Event desc="saman" type="pronounce" extent="begin"/>
+ég held að það
+<Event desc="saman" type="pronounce" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="169.221" endTime="196.806">
+ sé afskaplega mikilvægt að það náist um þetta samstaða þannig að það sé líka hægt að semja um það hvenær umræðunni verður frestað því að það er lykilatriði að málið fari til nefndarinnar áður en umræðu lýkur
+<Sync time="182.005"/>
+
+<Event desc="saman" type="pronounce" extent="begin"/>
+það er
+<Event desc="saman" type="pronounce" extent="end"/>
+ 
+<Event desc="saman" type="pronounce" extent="begin"/>
+í raun og veru
+<Event desc="saman" type="pronounce" extent="end"/>
+ það eina sem að þingsköpin segja varðandi þetta mál þannig að ég í fullri vinsemd óska eftir því # við herra forseta að þetta mál verði kannað sem allra allra fyrst með sameiginlegum fundi forseta með þingflokksformönnum
+<Sync time="195.581"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="196.806" endTime="207.926">
+<Sync time="196.806"/>
+til máls tekur háttvirtur # þriðji þingmaður Norðvesturkjördæmis um fundarstjórn forseta
+<Sync time="205.456"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk4 spk5" startTime="207.926" endTime="220.319">
+<Sync time="207.926"/>
+<Who nb="1"/>
+hæstvirtur forseti
+<Who nb="2"/>
+
+<Sync time="210.087"/>
+<Who nb="1"/>
+ég tel nú enga ástæðu til þess að fresta þessari umræðu um og afgreiðslu fjárlaga vegna # þjóðhagsspár Seðlabankans frá því í gær
+
+<Who nb="2"/>
+við ræðum 
+<Comment desc="óskiljanlegt"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="220.319" endTime="246.779">
+<Sync time="220.319"/>
+það var vitað að það væri von á nýrri þjóðhagsspá frá Seðlabankanum á þessum tíma # og það hefur legið fyrir allt frá því við byrjuðum að fjalla um fjárlagafrumvarpið að # að fjármálaráðuneytið mun endurskoða sína þjóðhagsspá í byrjun næsta árs
+<Sync time="233.995"/>
+og ég get nú ekki séð að 
+<Comment desc="ræskir sig"/>
+ Seðlabankinn sé að spá hruni eða neyðarástandi # í sinni þjóðhagsspá
+<Sync time="240.523"/>
+þar hins vegar birtast # birtist aðvörun og áminningar um aðhald og festu í ríkisrekstri
+<Sync time="246.779"/>
+</Turn>
+<Turn speaker="spk4" startTime="246.779" endTime="274.212">
+og það auðvitað samrýmist þeim markmiðum # og því sem að stjórnarflokkarnir hafa verið að vinna að
+<Sync time="252.899"/>
+einfaldlega það að við verðum að halda útgjaldavexti ríkissjóðs í skefjum # við erum öll sammála um það
+<Sync time="258.351"/>
+en ég velti því fyrir mér hvað stjórnarandstaðan ætlar að fá út úr því að fresta umræðunni # og afgreiðslu fjárlaganna núna # út af þessu máli
+<Sync time="268.195"/>
+e eru menn að hugsa um það að fara ofan í fjárlagafrumvarpið allt aftur og eins og við höfum verið að gera á síðstu vikum
+<Sync time="274.212"/>
+</Turn>
+<Turn speaker="spk4" startTime="274.212" endTime="306.927">
+ég verð nú að segja hæstvirtur forseti að mér finnst þetta nú svona bera keim af ákveðnu sjónarspili og kannski kryddi í þessa umræðu sem er svo sem ágætt # aðeins að rífa okkur upp # o- og hérna krydda umræðuna
+<Sync time="287.878"/>
+en það liggur fyrir eins og ég sagði 
+<Comment desc="raddir í bakgrunni"/>
+ að ný þjóðhagsspá fjármálaráðuneytisins
+<Event desc="óskýrt" type="pronounce" extent="previous"/>
+ mun birtast í byrjun næsta árs
+<Sync time="295.547"/>
+við hljótum að fara yfir hana og fylgja henni eftir ef ástæða þykir til # vegna þess að við viljum jú halda utan um ríkisfjármálin af ábyrgð og festu og við höfum gert það # og við ætlum okkur að gera það áfram
+<Sync time="306.927"/>
+</Turn>
+<Turn speaker="spk4" startTime="306.927" endTime="316.254">
+en ég ítreka það hæstvirtur forseti að ég tel ekki ástæðu til þess að # að þessari umræðu verði frestað og málið tekið aftur fyrir í # í fjárlaganefnd
+</Turn>
+<Turn speaker="spk3" startTime="316.254" endTime="324.92">
+<Sync time="316.254"/>
+til máls tekur háttvirtur níundi þingmaður Reykjavíkurkjördæmis_norður # um fundarstjórn forseta
+</Turn>
+<Turn speaker="spk6" startTime="324.92" endTime="358.183">
+<Sync time="324.92"/>
+já virðulegur forseti ég kemst ekki hjá því að vera # fullkomlega ósammála háttvirtum þingmanni Magnúsi_Stefánssyni formanni fjárlaganefndar en það var auðvitað alveg augljóst af ræðu hans hér þegar hann lagði frumvarpið fram til þriðju umræðu á innan við mínútu trúi ég í í ræðustólnum þar sem að engar breytingatillögur eru gerðar frá því að það var lagt fram við aðra umræðu # að það virðist ríkja af hálfu stjórnarmeirihlutans algert metnaðarleysi um frumvarpið sjálft # um forsendur þess og um að áætlanir þess gangi eftir
+<Sync time="358.183"/>
+</Turn>
+<Turn speaker="spk6" startTime="358.183" endTime="407.113">
+og ég harma það nú að háttvirtur þingmaður Einar_Oddur_Kristjánsson sem að hér hefur nú stundum í þingsölum verið talsmaður aðhalds skuli taka undir þann söng að að horfast ekki í augu við # þann útgjaldavanda sem að vantar í þetta frumvarp og allir vita af
+<Sync time="373.1"/>
+og ég hef satt að segja sjaldan kynnst öðrum eins vinnubrögðum eins og hér í þinginu
+<Sync time="378.188"/>
+ég tek sem dæmi # að hér er í gær dreift frumvarpi stjórnarfrumvarpi sem kynnt hefur verið í þingflokkum stjórnarflokkanna # um Tækniháskóla_Íslands og í kostnaðarmati fjármálaráðuneytisins segir að kostnaður vegna samþykktar frumvarpsins verði á bilinu hundrað_og_þrjátíu til hundrað_og_fimmtíu_milljónir_króna á næsta ári # árið tvö_þúsund_og_fimm # 
+<Sync time="398.743"/>
+þær hundrað_og_þrjátíu til hundrað_og_fimmtíu_milljónir_króna eru ekki að finna hér í frumvarpinu # sem á svo að afgreiða á morgun # 
+<Sync time="407.113"/>
+
+<Event desc="saman" type="pronounce" extent="begin"/>
+það er
+<Event desc="saman" type="pronounce" extent="end"/>
+</Turn>
+<Turn speaker="spk6" startTime="407.113" endTime="445.563">
+ að segja sama ríkisstjórnin flytur hér útgjaldafrumvarp á fimmtudegi # og ætlar að afgreiða fjárlög á laugardegi sem ekki gerir ráð fyrir 
+<Comment desc="einhver ræskir sig"/>
+ útgjöldum
+<Sync time="416.84"/>
+þannig að metnaðarleysi stjórnvalda í þessu efni er algjört # eins og sést af því að frávikin hafa verið tuttugu_þúsund_milljónir á hverju ári # og jafnvel Seðlabankinn verður að leiðrétta árl- áætlanir ríkisstjórnarinnar í spám sínum
+<Event desc="sínunum" type="pronounce" extent="previous"/>
+ og gera ráð fyrir því gera ráð fyrir því að fjárlagafrumvarpið sem að Alþingi Íslendinga skili frá sér það sé bara vitlaust # 
+<Sync time="438.901"/>
+Seðlabanki_Íslands þarf að ganga út frá því sem gefinni staðreynd að Alþingi Íslendinga geti ekki skilað frá sér réttum fjárlögum
+<Sync time="445.563"/>
+</Turn>
+<Turn speaker="spk6" startTime="445.563" endTime="471.814">
+og ég tel að það sé fullkomlega óviðunandi fyrir h- hið háa Alþingi og það sé algerlega fja- fráleitt að afgreiða hér fjárlagafrumvarp í desember og endurskoða síðan allar 
+<Comment desc="einhver hóstar"/>
+ forsendur þess í janúar
+<Sync time="458.544"/>
+úr því að það þarf að endurskoða allar forsendur fjárlagafrumvarpsins # þá er eins gott að menn taki sér bara þann tíma sem að þarf núna í desember # til þess að gera það # þannig að þingið geti þá skilað af sér sæmilega ré- réttu plaggi
+<Sync time="471.814"/>
+</Turn>
+<Turn speaker="spk6" startTime="471.814" endTime="511.042">
+það getur verið að fjárlaganefnd þurfi eina viku til þess eða tvær vikur en ég bendi líka á að með- meðhöndlun málsins í efnahags_og_viðskiptanefnd háttvirtri var fyrir a- neðan allar hellur var fyrir neðan allar hellur og það liggur 
+<Event desc="áhersla" type="pronounce" extent="begin"/>
+ekkert
+<Event desc="áhersla" type="pronounce" extent="end"/>
+ faglegt mat # fyrir hendi # um tekjukafla
+<Event desc="tekjukj # kafla" type="pronounce" extent="previous"/>
+ fjárlagafrumvarpsins
+<Event desc="fjár # lagafrumvarpsins" type="pronounce" extent="previous"/>
+ vegna þess að það vannst enginn tími eða var nein an- aðstaða í efnahags-_og_viðskiptanefnd til að fara sómasamlega yfir málið # 
+<Sync time="501.035"/>
+og ég tel ekki að hið háa Alþingi geti afgreitt annað eins grundvallargagn frá sér með slíkum og þvílíkum 
+<Event desc="bjalla" type="noise" extent="begin"/>
+handarbakavinnubrögðum
+<Event desc="bjalla" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="511.042" endTime="523.578">
+<Sync time="511.042"/>
+þá tekur til máls um fundarstjórn forseta háttvirtur tíundi þingmaður Suðurkjördæmis Jón_Gunnarsson
+<Sync time="517.977"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="523.578" endTime="545.728">
+<Sync time="523.578"/>
+virðulegi forseti ég ætla nú að vona að # hæstvirtur forseti hafi vit fyrir # framkvæmdavaldinu núna og taki undir með okkur þingmönnum þar sem við förum fram á að að umræðu þriðju umræðu um fjárlög verði frestað vegna þeirra upplýsinga sem fram hafa komið um mjög breyttar efnahagsforsendur # u eftir að að Seðlabankinn kynnti sína spá í gær
+<Sync time="545.728"/>
+
+<Comment desc="skrjáf í pappír"/>
+</Turn>
+<Turn speaker="spk7" startTime="545.728" endTime="581.826">
+ það hlýtur að vera krafa okkar á hverjum tíma og jafnframt krafa þingsins að þau lög sem að við afgreiðum hér frá okkur séu sem nákvæmust eins og nokkur kostur er
+<Sync time="555.549"/>
+og miðað við þær upplýsingar sem nú liggja fyrir þá eru þau lög sem við ætlum að fara að afgreiða hér # ljúka hér umræðu um í dag # þriðju umræðu um fjárlög # þá verða þau lög aldrei hvorki fugl eða fiskur
+<Sync time="568.526"/>
+og ég vona satt að segja herra forseti að að eftir að forseti hefur 
+<Event desc="hljóð í bakgrunni" type="noise" extent="begin"/>
+hugsað málið
+<Event desc="hljóð í bakgrunni" type="noise" extent="end"/>
+ þá sjái hann að við höfum rétt fyrir okkur og full ástæða til þess að kalla saman þingflokksformenn til þess að skoða hvernig við höldum áfram
+<Sync time="581.826"/>
+</Turn>
+<Turn speaker="spk7" startTime="581.826" endTime="619.158">
+við höfum nógan tíma # desemer er rétt byrjaður og við hljótum að geta tekið nokkra daga til að skoða þær breytingar sem að nú blasa við í efnahagsforsendum í í okkar okkar þjóðarrekstri
+<Sync time="592.123"/>
+ef við skoðum fjárlagafrumvarpið # stefna og horfur sem fylgdu fjárlagafrumvarpinu # þá segir þar um nokkrar forsendur með leyfi forseta 
+<Event desc="les" type="pronounce" extent="begin"/>
+litlar breytingar hafa orðið á framvindu stóriðjuframkvæmda á næstu árum frá síðustu spá í maí
+<Event desc="les" type="pronounce" extent="end"/>
+
+<Sync time="607.211"/>
+Seðlabankinn segir 
+<Event desc="les" type="pronounce" extent="begin"/>
+umfang stóriðjuáforma hefur vaxið einkum á næsta ári bæði vegna áforma Norðuráls og breytingu á tímasetningum framkvæmda Fjarðaráls
+<Event desc="les" type="pronounce" extent="end"/>
+ þarna er ein forsenda brostin
+<Sync time="619.158"/>
+</Turn>
+<Turn speaker="spk7" startTime="619.158" endTime="653.179">
+hér er forsenda um gengisþróun sem segir að að gengisvísitalan verði að meðaltali um hundrað_tuttugu_og_tvö stig árið tvö_þúsund_og_fjögur en hækki síðan í hundrað_tuttugu_og_fimm stig árið tvö_þúsund_og_fimm sem þýðir um tvö_og_hálft_prósent lækkun íslensku krónunnar
+<Sync time="634.244"/>
+samkvæmt þessu er gert ráð fyrir að íslenska krónan muni veikjast stig af stigi og er þá tekið mið af minnkandi gjaldeyrisinnflæði á næstu árum 
+<Event desc="saman" type="pronounce" extent="begin"/>
+þessu til viðbótar ber að hafa í huga að með vaxandi viðskiptahalla myndast aukinn þrýstingur á krónuna til lækkunar
+<Event desc="saman" type="pronounce" extent="end"/>
+&lt;/HM&gt;
+<Event desc="les" type="pronounce" extent="end"/>
+
+<Sync time="646.481"/>
+ég heyrði ekki betur en að háttvirtur varaformaður fjárlaganefndar væri einmitt að vara við því að gengið væri að styrkjast en ekki að lækka
+<Sync time="653.179"/>
+önnur mikilvæg forsenda sem að tekin er til hér í í stefnum og horfum 
+<Event desc="skrjáf í pappír" type="noise" extent="begin"/>
+fjárlagafrumvarpsins
+<Event desc="skrjáf í pappír" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk7" startTime="653.179" endTime="667.448">
+ er # 
+<Event desc="les" type="noise" extent="begin"/>
+að nýgerðir kjarasamningar samtaka launþega og atvinnurekenda munu einnig gilda í megindráttum fyrir þau stéttarfélög sem ekki hafa endurnýjað kjarasamninga sína
+<Event desc="les" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk7 spk8" startTime="667.448" endTime="672.371">
+<Sync time="667.448"/>
+<Who nb="1"/>
+er verið að tala um kennarasamningana þarna
+<Event desc="þadna" type="pronounce" extent="previous"/>
+ # eða um hvaða samninga er verið að tala
+<Who nb="2"/>
+jæja
+</Turn>
+<Turn speaker="spk7" startTime="672.371" endTime="703.852">
+<Sync time="672.371"/>
+það er búið að gera nýja samninga síðan að þetta var gefið út og full ástæða til þess fyrir okkur að skoða hvernig við tökum á á á þeim veruleika sem að þar við blasir
+<Sync time="681.921"/>
+kafli # efnahags-_og_viðskiptanefndar er alveg sérstakur í þessu máli
+<Sync time="687.769"/>
+hér segir í þingsköpum 
+<Event desc="les" type="pronounce" extent="begin"/>
+til efnahags-_og_viðskiptanefndar vísar fjárlaganefnd frumvarpi til lánsfjárlaga og tekjugrein fjárlagafrumvarps
+<Event desc="les" type="pronounce" extent="end"/>
+ # hún á að fara yfir þetta og skila okkur áliti
+<Sync time="698.179"/>
+hún gerði það og segir spá um þjóðhagsforsendur hefur ekki verið breytt frá framlagningu frumvarpsins 
+<Comment desc="hljóð í bakgrunni"/>
+
+<Sync time="703.852"/>
+</Turn>
+<Turn speaker="spk7" startTime="703.852" endTime="715.702">
+Seðlabankinn kom í gær til efnahags-_og_viðskiptanefndar 
+<Comment desc="bjalla"/>
+ og meiri hluti efnahags-_og_viðskiptanefndar tilkynnti að hann teldi 
+<Event desc="hækkar róm" type="pronounce" extent="begin"/>
+ekki 
+<Event desc="bjalla" type="noise" extent="begin"/>
+þörf á því
+<Event desc="bjalla" type="noise" extent="end"/>
+ að breyta áliti sínu 
+<Event desc="ber í borð" type="noise" extent="begin"/>
+þó
+<Event desc="ber í borð" type="noise" extent="end"/>
+ fram væri komin ný þjóðhagsspá
+<Event desc="hækkar róm" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="715.702" endTime="744.596">
+<Sync time="715.702"/>
+í tilefni af orðum # háttvirts # þingmanns og fleiri háttvirtra þingmanna þá vill forseti taka það fram að hann telur ekki tilefni til að gera það hlé á # þessum fundarhöldum sem sem 
+<Comment desc="einhver ræskir sig"/>
+ óskað var eftir en nú tekur til máls háttvirtur fjórði þingmaður # Suðurkjördæmis Lúðvík_Bergvinsson um fundarstjórn forseta
+<Sync time="740.02"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="744.596" endTime="775.213">
+<Sync time="744.596"/>
+
+<Comment desc="ræskir sig"/>
+
+<Sync time="745.102"/>
+virðulegi # forseti ég vil lýsa við mig andvígan þeim viðhorfum sem fram komu hjá # hæstvirtum forseta og og vekja líka einnig athygli á því að formaður fjárlaganefndar hann felldi nokkuð þunga dóma yfir ræðu varaformanns # háttvirts fjárlaganefndar þegar hann # kallaði það að við skyldum taka hér upp umræðu um þau orð sem að hann lét falla sjónarspil og til þess fallið að lýsa upp eitthvað hér í í skammdeginu 
+<Comment desc="ræskir sig"/>
+ og til þess að til þess að skemmta okkur
+<Sync time="775.213"/>
+</Turn>
+<Turn speaker="spk9" startTime="775.213" endTime="811.176">
+en hver var kjarninn í því sem að # háttvirtur þingmaður Einar_Oddur_Kristjánsson sagði hér varaformaður fjárlaganefndar
+<Sync time="782.318"/>
+hann sagði # hin- hinir hinir ofsafengu viðb- ofsafengnu viðbrögð Seðlabankans við aðhaldsleysi í ríkisfjármálum og útlánaaukningu bankanna væru slík að það væri verið að kippa fótunum undan útflutningsgreinunum
+<Sync time="798.427"/>
+að það þýddi # þýddi það að vaxtastigið væri hér á uppleið og hvað þýddi það
+<Sync time="804.227"/>
+það þýddi styrkingu á k- á krónunni 
+<Event desc="hækkar róm" type="pronounce" extent="begin"/>
+langt umfram það sem útflutningsgreinarnar þyldu
+<Event desc="hækkar róm" type="pronounce" extent="end"/>
+
+<Sync time="811.176"/>
+</Turn>
+<Turn speaker="spk9" startTime="811.176" endTime="853.84">
+ef að þetta eru ekki # nýjar forsendur til þess að ræða fru- fjárlagafrumvarpið á # þá veit ég ekki virðulegi forseti hvaða forsendur það kunna að vera sem gera það að verkum að þingið skoði frekar þau fjárlög sem er að afg- sem er að afgreiða
+<Sync time="827.533"/>
+Seðlabankinn # sem hefur það eitt verkefni # að að að að fylgjast með verðlagi í landinu grípur til ofsafengna viðbragða þegar hann sér hvernig fjárlagafrumvarpið virðist ætla að líta út # með þeim skattalækkunum og öðrum sem það inn- inni ber og því aðhaldsleysi sem það ber með sér
+<Sync time="847.802"/>
+og ætlar enginn # og ætlar meirihlutinn að láta þetta fram hjá s- fram hjá sér fara í þeirri stöðu sem við erum í
+<Sync time="853.84"/>
+</Turn>
+<Turn speaker="spk9" startTime="853.84" endTime="875.082">
+ætla menn að láta það ganga eftir sem að háttvirtur varaformaður fjárlaganefndar er hér að spá # um að að fótunum verði kippt undan útflutningsgreinunum # eða ætla menn ekki að eða ætla menn ekki að taka mark á því þe- þegar hann segir
+<Sync time="867.154"/>
+við verðum að framleiða á Íslandi
+<Sync time="868.729"/>
+við verðum að flytja út
+<Sync time="870.208"/>
+við verðum að afla okkur tekna
+<Sync time="872.195"/>
+er þetta eitthvað sem skiptir ekki neinu máli
+<Sync time="875.082"/>
+</Turn>
+<Turn speaker="spk9" startTime="875.082" endTime="918.311">
+nei virðulegi forseti ég ég vil segja það ég vil lýsa mig algerlega andvígum andvígum þeirri þeim sjónarmiðum sem hér kom fram að ekki sé ástæða til þess að taka þetta til frekari skoðunar því að það er # alvarlegur hlutur # mjög alvarlegur hlutur # að afgreiða fjárlagafrumvarp frá okkur á sömu forsendum # og menn töldu að hefðu legið fyrir þegar fjárlagafrumvarpið var lagt fram fyrsta október # og gefa ekki gaum að þeim breytingum sem átt hafa sér stað síðan þrátt fyrir # hástemmdar yfirlýsingar 
+<Comment desc="skrjáf í pappír"/>
+ varaformanns fjárlaganefndar um um um i gersamlega # breyttar # forsendur í íslensku hagkerfi
+<Sync time="916.684"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="918.311" endTime="927.617">
+<Sync time="918.311"/>
+þá tekur til máls háttvirtur áttundi þingmaður Norðvesturkjördæmis um fundarstörf forseta 
+<Sync time="923.115"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="927.617" endTime="972.223">
+<Sync time="927.617"/>
+herra forseti
+<Sync time="928.89"/>
+
+<Comment desc="ýmis hljóð í bakgrunni"/>
+
+<Sync time="931.061"/>
+ég u # tók það fram við afgreiðslu fjárlagafrumvarpsins úr fjárlaganefnd að ég teldi að það væri í rauninni ekki tækt til meðferðar # og var andvígur því að við að það væri væri afgreitt þannig út
+<Sync time="947.418"/>
+það skorti bæði umsögn efnahags-_og_viðskiptanefndar # um tekjuhlið frumvarpsins og um forsendur # u fjárlaganna og sérstaklega tekjuforsendurnar og auk þess væru þar mei- veigamiklir málaflokkar sem að væri ljóst að fengu ekki fjárveitingar miðað við lögbundin # verkefni þeirra
+<Sync time="968.744"/>
+þetta tók ég fram við afgreiðslu fjárlagafrumvarpsins úr nefnd
+<Sync time="972.223"/>
+</Turn>
+<Turn speaker="spk10" startTime="972.223" endTime="1008.624">
+nú hafa komið og s- sama staðan er enn uppi
+<Sync time="976.343"/>
+nú hafa komið hér fram í umræðunni hjá háttvirtum varaformanni fjárlaganefndar að # að hann hefur þar # ítrekað að forsendur # fjárlagafrumvarpsins eru mjög breyttar nú frá því sem var í haust og i skýrsla og Seðlabankans er þar # notuð sem sem grundvöllur í þeirri # í þeim málflutningi og ég er alveg sammála hæstvirtum varaformanni fjármá- fjárlaganefndar
+<Sync time="1005.104"/>
+ég er líka eins og ég rakti í ræðu minni
+<Sync time="1008.624"/>
+þá tel ég að þær harkalegu # aðgerðir sem að Seðlabankinn er að grípa til gríðarlegra vaxtahækkana
+<Event desc="vaxtahækkuna" type="pronounce" extent="previous"/>
+</Turn>
+<Turn speaker="spk10" startTime="1008.624" endTime="1052.107">
+ # kom- komi mjög hart niður á 
+<Event desc="einhver ræskir sig" type="noise" extent="begin"/>
+útflutningsgreinunum
+<Event desc="einhver ræskir sig" type="noise" extent="end"/>
+ og efnahagslífinu í landinu enda lætur ekki á sér standa gengið er komið í hundrað_og_fimmtán dollarinn í sextíu_og_þrjár_krónur en forsendum fjárlaga er gert ráð fyrir gengisvísitölu hundrað_tuttugu_og_fimm 
+<Comment desc="raddir í bakgrunni"/>
+
+<Sync time="1034.177"/>
+þannig að þarna
+<Event desc="þadna" type="pronounce" extent="previous"/>
+ er nú aldeilis mikill munur á
+<Sync time="1037.889"/>
+ég hef því talið bara eðlilegt og nauðsynlegt að i fjárlagafrumvarpið færi aftur inn til fjárlaganefndar og við fengjum u fulltrúa Seðlabankans inn á fund nefndarinnar og ræddum þá á hvaða forsendum þeir væru að grípa til svona aðgerða
+<Sync time="1052.107"/>
+</Turn>
+<Turn speaker="spk10" startTime="1052.107" endTime="1099.867">
+við vitum jú að það er verið að bregðast við þessum fáránlegu skattalækkunartillögum ríkisstjórnarinnar sem passa engan veginn inn í það efnahagsástand sem nú er en hefur ekki Seðlabankinn þá einhverjar aðrar aðgerðir til að grípa við grípa til 
+<Sync time="1063.880"/>
+ég hef nefnt áður í umræðunni og háttvirtur þingmaður Einar_Oddur_Kristjánsson endurtekið það hér 
+<Sync time="1068.047"/>
+Seðlabankinn hefur líka bindiskyldumöguleikana að taka 
+<Event desc="einhver ræskir sig" type="noise" extent="begin"/>
+fé úr umferð
+<Event desc="einhver ræskir sig" type="noise" extent="end"/>
+ frá bönkunum
+<Sync time="1074.285"/>
+á síðastliðnum áramót þá i lækkaði bankinn Seðlabankinn bindiskylduna úr fjórum í tvö_prósent og hleypti tugum milljarða # peninga þar með í umferð
+<Sync time="1085.335"/>
+þannig að Seðlabankinn hefur líka ýmis önnur tök
+<Sync time="1088.668"/>
+nú væri ekki líka ráð að Seðlabankinn og og fjármála- og fjárlaganefnd Alþingi ræddust við um stöðu efnahagsmála og aðgerða í efnahagsmálum og fjármálum
+<Sync time="1099.867"/>
+</Turn>
+<Turn speaker="spk10" startTime="1099.867" endTime="1121.228">
+eins og nú horfir # þá fer ríkissjóður hér einn veg # með skattalækkunum # Seðlabankinn annan veg með því að að grípa til vaxtahækkana 
+<Event desc="bjalla" type="noise" extent="begin"/>
+hækkunar gengis með ófyrirsjáanlegum afleiðingum fyrir atvinnulífið í landinu
+<Event desc="bjalla" type="noise" extent="end"/>
+
+<Sync time="1114.927"/>
+
+<Event desc="bjalla" type="noise" extent="begin"/>
+ég tel herra forseti að frumvarpið eigi aftur að fara inn til fjárlaganefndar til nánari
+<Event desc="bjalla" type="noise" extent="end"/>
+ 
+<Event desc="bjalla" type="noise" extent="begin"/>
+vinnslu áður en það kemur til lokaafgreiðslu
+<Event desc="bjalla" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1121.228" endTime="1129.891">
+<Sync time="1121.228"/>
+þá tekur til máls háttvirtur þriðji þingmaður Norðausturkjördæmis Kristján_L._Möller um fundarstjórn forseta
+<Sync time="1127.463"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="1129.891" endTime="1153.422">
+<Sync time="1129.891"/>
+virðulegi forseti 
+<Sync time="1131.349"/>
+ég átti því miður ekki kost á að vera hér við aðra umræðu fjárlaga var erlendis á vegum þingsins
+<Sync time="1136.089"/>
+ég hef hlustað með athygli hér í dag # á stjórnarliða og aðra ræða hér um fjárlög
+<Sync time="1141.582"/>
+einnig hef ég hlustað með athygli á það sem að hefur verið að koma fram núna eftir dæmalausir aðgerðir Seðlabankans frá í gær # og þær nýjustu tölur sem er að heyra af gengisvísitölu sem voru að rétt að 
+<Event desc="hlæjandi" type="pronounce" extent="begin"/>
+berast í þennan sal
+<Event desc="hlæjandi" type="pronounce" extent="end"/>
+
+<Sync time="1153.422"/>
+</Turn>
+<Turn speaker="spk11" startTime="1153.422" endTime="1185.679">
+ég hafði nú ekki skoðað fjölmiðla nýlega í dag eða fréttamiðla á netinu að gengisvísna- vísitalan sé komin niður í hundrað_og_fimmtán stig
+<Sync time="1160.544"/>
+það sýnir það hvers konar # ja # ég veit ekki hvaða ég ætla að sleppa að nota það orð sem kemur upp í huga minn um þessar aðgerðir Seðlabankans sem að greinilega eru að fara í þveröfuga átt við það sem að hér hefur átt hefur verið fjallað um
+<Sync time="1173.505"/>
+í forsendum fjárlaga virðulegur forseti er talað meðal annars um að í spánni er gengið út frá því að stýrivextir Seðlabankans verði hækkaðir stig af stigi í sjö_og_hálft_prósent fram til ársins tvö_þúsund_og_sex
+<Sync time="1185.679"/>
+</Turn>
+<Turn speaker="spk11" startTime="1185.679" endTime="1199.436">
+nýjasta ákvörðun gerir það að verkum að þeir eru nú komnir í átta_komma_tuttugu_og_fimm_prósent 
+<Comment desc="einhver hóstar"/>
+
+<Sync time="1191.47"/>
+og hvað á þá að gera á þeim tíma sem er fram undan til tvö_þúsund_og_sex á að hækka þetta enn meira 
+<Sync time="1195.962"/>
+á að eiga stýrivextir að fara upp í tíu_til_ellefu_prósent eða hvernig
+<Event desc="kvednin" type="pronounce" extent="previous"/>
+ endar þetta
+<Sync time="1199.436"/>
+virðulegi forseti # ég tek undir það sem hér hefur verið sagt og vil og
+<Event desc="óskýrt" type="pronounce" extent="previous"/>
+</Turn>
+<Turn speaker="spk11" startTime="1199.436" endTime="1284.88">
+ óska eftir því fyrir hönd þingflokks Samfylkingar # og ég vona að það sé tal- tali ég alveg skýrt að það verði gert verði hlé á þessari umræðu # fundi verði frestað og boðað verði til funda með formönnum þingflokka og forseta þingsins # til að ræða það sem hér er komið fram og hefur verið borið fram af i fulltrúum stjórnarandstæðinga sem að stjórnarandstöðunnar sem hér hafa talað um það # að spá Seðlabankans og margt það sem að þar var að gerast í gær fari svoleiðis # í þveröfuga átt miðað við það sem að hér hefur verið talað um að það sé full ástæða til að taka þetta fjárlagadæmi upp strax # áður en ríkisstjórnin pakkar því inn í glansumbúðir jólapappír núna rétt fyrir jól sem verður ekki 
+<Event desc="hækkar róm" type="pronounce" extent="begin"/>
+pappírsins virði
+<Event desc="hækkar róm" type="pronounce" extent="end"/>
+
+<Sync time="1251.419"/>
+og virðulegi forseti eitt í viðbót sem rök fyrir þessu
+<Sync time="1257.315"/>
+að á sama degi og nú við erum að ræða fjárlög til þriðju umræðu og það á að klára þær umræður 
+<Comment desc="skrjáf í pappír"/>
+ og við eigum að samþykkja fjárlög á 
+<Event desc="ber í borð" type="noise" extent="begin"/>
+morgun
+<Event desc="ber í borð" type="noise" extent="end"/>
+ þá er dreift frumvarpi til laga um afnám laga um Tækniháskóla_Íslands þar sem fjármálaráðuneytið segir að það kosti um hundrað_og_þrjátíu_til_fimmtíu_milljónir á næsta ári
+<Sync time="1278.118"/>
+virðulegi forseti af hverju
+<Event desc="ahkuru" type="pronounce" extent="previous"/>
+ er þetta ekki komið inn í breytingartillögur vegna fjárlaga
+<Sync time="1284.88"/>
+og ef að það á 
+<Event desc="raddir í bakgrunni" type="noise" extent="begin"/>
+</Turn>
+<Turn speaker="spk11" startTime="1284.88" endTime="1301.126">
+núna # að fara að samþykkja fjárlög hér á morgun # með svona vitleysisgangi og hér er fyrsta frumvarpið komið fram
+<Event desc="raddir í bakgrunni" type="noise" extent="end"/>
+ # sem bætir # útgjöld ríkissjóðs hvað er þá er meira í pípunum # virðulegi forseti
+<Sync time="1301.126"/>
+þess vegna ítreka ég þá kröfu að miðað við tuttugustu gr- þriðju grein þingskapa þá verði veitt heimild til því fyrir því að það sé hægt að má- vísa máli til nefndar á hverju stigi sé þess sé það gert áður en umræðu er lokið þá skal henni frestað og það er það sem ég vil virðulegi forseta ítreka hér enn einu sinni fyrir hönd þingflokks Samfylkingarinnar
+<Event desc="Samfylkinganna" type="pronounce" extent="previous"/>
+</Turn>
+<Turn speaker="spk11" startTime="1301.126" endTime="1329.462">
+ að hlé verði gert á þessum fundi til þess að þingflokksformenn geti átt fund með forseta til að ræða þessa stöðu sem komin er upp
+<Sync time="1328.07"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1329.462" endTime="1363.674">
+<Sync time="1329.462"/>
+forseti ítrekar þá afstöðu sína að e hann telur ekki tilefni til þess að gera hlé á þessari umræðu en ef formenn # þingflokka # geta notað tímann til að ræða saman þá # er það auðvitað # er það auðvitað eðlilegt að þeir geri það en til þess er ekki þörf að gera hlé á þessari umræðu enda er talsvert eftir af henni a- eftir því sem forseta sýnist
+<Sync time="1351.371"/>
+en e til máls tekur háttvirtur fimmti þingmaður Norðvesturkjördæmis um fundarstjórn forseta
+<Sync time="1356.791"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="1363.674" endTime="1365.471">
+<Sync time="1363.674"/>
+hæstvirtur forseti # 
+<Sync time="1365.471"/>
+</Turn>
+<Turn speaker="spk12" startTime="1365.471" endTime="1430.587">
+ég held nú að # þær óskir sem hér hafa komið fram um að fundi verði frestað og menn ræði saman um framhald málsins og # það sem að ég tel alveg sjálfsagt að # fjárlaganefnd hittist og fari yfir málin eins og þau liggja núna fyrir # bæði með tilliti til þess sem að komið hefur fram í # í þeirri framsetningu sem Seðlabankinn hefur látið frá sér í í ritinu um peningamál og hins vegar annars vegar þá líka þær ræður sem hér hafa verið fluttar # meðal annars af (for-) forystumönnum &lt;HM&gt;ríkisstjórnarinnar&lt;/HM&gt; í fjárlaganefnd # 
+<Sync time="1402.46"/>
+ég tel fullt tilefni til að að þetta mál sé rætt og sé ekki hvaða hvaða hætta er fólgin í því virðulegur hæstvirtur forseti hvort að þó við ((einhver hóstar)) frestum þessum fundi og það verði málin verði rædd # með forseta þingsins og og og þingflokksformönnum # og 
+<Sync time="1423.22"/>
+auðvitað vonumst við til þess að niðurstaðan af þeim fundi yrði sú að það yrði boðað til fundar í fjárlaganefnd þar sem að væri farið yfir þessi mál og 
+<Sync time="1430.587"/>
+</Turn>
+<Turn speaker="spk12" startTime="1430.587" endTime="1436.612">
+það verður þá að ráðast hvort að menn þurfa fleiri en einn fund til þess að (ta-) tala þar um málin og fara yfir þau en 
+<Sync time="1436.612"/>
+</Turn>
+<Turn speaker="spk12" startTime="1436.612" endTime="1487.314">
+ég sé nú ekki að það sé neitt í hættu (þess-) með afgreiðslu fjárlaganna þó að við tækjum einn tvo daga í það að fara yfir þessi mál miðað við (nú-) núverandi forsendur og og ræða þau # og og skoða í raun og veru hvaða hvaða leiðir ((hljóð í bakgrunni)) (menna-) (menna-) vilja fara ef menn vilja breyta einhverju nú eða þá að færa rök fyrir því og hlusta á þau rök sem að # menn vildu leggja með sér í það að hafa þetta hafa stöðuna algjörlega óbreytta # 
+<Sync time="1467.549"/>
+ég held að það sé fullt tilefni til þess að skoða málin og 
+<Sync time="1471.712"/>
+ég sé nú ekki að það sé neitt í hættu þó að jafnvel dragist þó það mundi jafnvel dragast fram á þriðjudag að klára það að afgreiða fjárlögin 
+<Sync time="1480.269"/>
+það hefur nú oft verið sagt um þriðjudaginn að hann væri til þrautar og menn skyldu þá klára þrautina þá
+<Sync time="1485.422"/>
+
+<Comment desc="raddir í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1487.314" endTime="1501.356">
+<Sync time="1487.314"/>
+þá tekur til máls háttvirtur fimmti þingmaður Norðausturkjördæmis Steingrímur_J._Sigfússon um fundarstjórn forseta 
+<Sync time="1493.826"/>
+
+<Comment desc="fótatak"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="1501.356" endTime="1525.697">
+<Sync time="1501.356"/>
+nú herra forseti ég # tek undir þær óskir að þessari umræðu verði frestað
+<Sync time="1505.803"/>
+ég tel að þær séu prýðilega vel rökstuddar og ígrundaðar
+<Sync time="1509.632"/>
+u það # má í raun og veru segja að það hafi verið gáleysi og og ankanalegt að setja þessa umræðu á þriðju umræðu um fjárlög strax þriðja desember og degi eftir að Seðlabankinn birti síðasta ársfjórðungslegt mat sitt á stöðu efnahagsmála
+<Sync time="1525.697"/>
+</Turn>
+<Turn speaker="spk13" startTime="1525.697" endTime="1560.941">
+það er auðvitað í raun og veru fá- fáránlegt að hafa ekki tíma til að að að að skoða það álit og i taka það fyrir í þingnefndum og stilla svo fjárlögin af í lokin með hliðsjón af nýjustu upplýsingum þjóðhagslegum upplýsingum og efnahagslegum upplýsingum u þegar þær liggja fyrir
+<Sync time="1544.524"/>
+u þar á ofan bætist það við að það hefur verið upplýst að efnahags-_og_viðskiptanefnd sem á auðvitað að sjá um að fara sérstaklega yfir þann þátt málsins tekjuforsendur fjárlagafrumvarpsins og þjóðhagslegar aðstæður þegar að verið er að loka fjárlögunum
+<Sync time="1558.43"/>
+ja hún hefur nánast ekkert komið að því máli
+<Sync time="1560.941"/>
+</Turn>
+<Turn speaker="spk13" startTime="1560.941" endTime="1610.373">
+það var kom ekkert álit frá henni við aðra umræðu og ég hef ekki orðið mikið var við þa- hana heldur á ferðinni í þessu þessu máli enda kannski háttvirtur formaður nefndarinnar Pétur_Blöndal uppteknari við annað # heldur en að að að að stjórna fundum í efnahags-_og_viðskiptanefnd
+<Sync time="1574.869"/>
+
+<Comment desc="ræskir sig"/>
+ svo gerist það hér að háttvirtur þingmaður Einar_Oddur_Kristjánsson varaformaður fjárlaganefndar hann kemur og fer mikinn eins og stundum # u þegar sá gállinn er á honum og ræðst á Seðlabankann ræðst á Seðlabankann fyrir aðgerðir hans
+<Sync time="1590.554"/>
+og i nú er það þannig # að ég get út af fyrir sig að mörgu leyti tekið undir með háttvirtum þingmanni Einari_Oddi_Kristjánssyni að harkaleg vaxtahækkun Seðlabankans er engin gleðitíðindi með þeim áhrifum sem hún virðist vera að hafa á gengið en hvað á Seðlabankinn að gera hvað á hann að gera
+<Sync time="1610.373"/>
+</Turn>
+<Turn speaker="spk13" startTime="1610.373" endTime="1639.747">
+Seðlabankinn er að bregðast við # meðal annars og ekki 
+<Event desc="ber í borð" type="noise" extent="begin"/>
+síst efnahagsstefnu ríkisstjórnarinnar
+<Event desc="ber í borð" type="noise" extent="end"/>
+
+<Sync time="1617.61"/>
+þannig að það er verið að hengja bakara fyrir smið # þegar að verið er að skamma ræfils Seðlabankann sem aleinn er að reyna að róa á móti verðbólgunni # og þenslunni # og i verður að fara út í harkalegri aðgerðir en ella # vegna skattalækkana ríkisstjórnarinnar # vegna stóriðjustefnunnar og af fleiri slíkum ástæðum
+</Turn>
+<Turn speaker="spk13 spk14" startTime="1639.747" endTime="1665.489">
+<Sync time="1639.747"/>
+<Who nb="1"/>
+og ég held að hæstvirtur forsætisráðherra eigi nú að láta sjá sig hér við umræðuna yfirmaður efnahagsmála í ríkisstjórninni og undir hvern Seðlabankinn heyrir enda er það allt í lagi herra forseti að það sjáist nú eins og einn og einn ráðherra ég ætla nú ekki að # bæta því viðhengi við sem mér datt í # hug u til að vera hér við umræðuna og við þegar aðstæður í efnahagsmálum eru líka þessar sem raun ber vitni 
+<Who nb="2"/>
+Jón_Kristjánsson er í húsinu
+<Sync time="1665.489"/>
+<Who nb="1"/>
+</Turn>
+<Turn speaker="spk13 spk14" startTime="1665.489" endTime="1689.322">
+þannig að ég fer fram á það í öllu falli að ef að forsætisráðherra og þá fjármálaráðherra láta ekki sjá sig hér við umræðuna þá verði umræðunni frestað þegar af þeim ástæðum
+<Who nb="2"/>
+já komið ráðherra-
+<Event desc="óskiljanlegt" type="pronounce" extent="previous"/>
+
+<Sync time="1676.833"/>
+<Who nb="1"/>
+þar á ofan þar á ofan e er- eru fullar ástæður til þess að þingnefndirnar taki málið aftur til sín það liggur ekkert á við höfum nógan tíma og 
+<Event desc="bjalla" type="noise" extent="begin"/>
+hægur vandinn að afgreiða fjárlögin hér svona þegar líður á næstu viku
+<Event desc="bjalla" type="noise" extent="end"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1689.322" endTime="1698.287">
+<Sync time="1689.322"/>
+þá tekur til máls um fundarstjórn forseta háttvirtur níundi þingmaður Norðvesturkjördæmis Einar_Oddur_Kristjánsson
+<Sync time="1695.545"/>
+
+<Comment desc="ýmis í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="1698.287" endTime="1729.157">
+<Sync time="1698.287"/>
+herra forseti
+<Sync time="1699.776"/>
+að sjálfsögðu gengur # umræðan um fjárlögin fram eins og lög gera ráð fyrir
+<Sync time="1707.1"/>
+henni lýkur í nótt og atkvæðagreiðsla verður um hana á morgun
+<Sync time="1710.63"/>
+þannig er nú áætlunin hjá þinginu
+<Sync time="1712.855"/>
+hins vegar get ég verið mjög sammála mörgum háttvirtum þingmanninum
+<Event desc="óskýrt" type="pronounce" extent="previous"/>
+ sem hefur komið hér og sagt að það sé ástæða til þess fyrir þingmenn fyrir forystumenn þingsins og flokkana að setjast niður og ræða efnahagsmál 
+<Comment desc="fótatak"/>
+
+<Sync time="1727.108"/>
+það held ég að sé mjög brýnt
+</Turn>
+<Turn speaker="spk15 spk16" startTime="1729.157" endTime="1750.376">
+<Sync time="1729.157"/>
+<Who nb="1"/>
+Seðlabankinn er að knýja fram gengis sem að mér er sagt að þeir jafnvel láti sér detta í hug að geti endað í hundrað_og_tíu vísitölunni # hundrað_og_tíu # 
+<Who nb="2"/>
+þá erum við sammála
+<Sync time="1743.709"/>
+<Who nb="1"/>
+þegar við erum að afgreiða fjárlög þar sem forsendurnar
+<Event desc="óskýrt" type="pronounce" extent="previous"/>
+ eru hundrað_tuttugu_og_fimm # 
+<Who nb="2"/>
+nú brostin forsenda
+</Turn>
+<Turn speaker="spk15" startTime="1750.376" endTime="1785.795">
+<Sync time="1750.376"/>
+þetta er gríðarlegur munur og varðar íslenskt atvinnulíf stórkostlega # samkeppnishæfni útflutningsframleiðslunnar # og # og þeirrar framleiðslu sem á hér í samkeppni við innflutning
+<Sync time="1766.633"/>
+þetta er alvarlegur hlutur
+<Sync time="1769.576"/>
+menn átelja mig hér virðulegi forseti fyrir að ráðast á Seðlabankann og menn spyrja hvað átti vesalings Seðlabankinn að gera
+<Sync time="1778.088"/>
+þetta er nú engin vesalings Seðlabanki # virðulegi # forseti
+<Sync time="1782.532"/>
+Seðlabankinn hefur mjög mörg tæki
+<Sync time="1785.795"/>
+Seðlabankinn hefur setið og aðhafst ekkert
+<Event desc="ekket" type="pronounce" extent="previous"/>
+</Turn>
+<Turn speaker="spk15" startTime="1785.795" endTime="1828.555">
+ þegar að íslenskir # bankar hafa komið hér á undanförnum mánuðum ausið inn í þetta þjóðfélag milli áttatíu_og_hundrað_milljörðum_króna til þess að lána einstaklingum 
+<Comment desc="bankað í borð"/>
+ til þess að fjármagna # kaup einstaklinga hafa lánað yfir sjö_þúsund einstaklingum milli áttatíu_og_hundrað_milljarða_króna
+<Sync time="1808.954"/>
+á þessum tíma # situr bara Seðlabankinn # situr bara Seðlabankinn og aðhefst ekkert
+<Sync time="1815.122"/>
+auðvitað hefur hann í valdi sínu bindiskylduna 
+<Sync time="1818.735"/>
+hann hefur hana ótakmarkað í valdi sínu # en í stað þess þá minnkuðu þeir fyrir ári bindiskylduna úr fjórum_prósetnum í tvö # og aðhafast svo ekkert
+<Sync time="1828.555"/>
+</Turn>
+<Turn speaker="spk15" startTime="1828.555" endTime="1868.449">
+svo koma menn með svona kjánatal og segja að það sé vegna þess að afgangur af ríkissjóði sé ekki nægur sem verðbólga sé að fara úr böndunum
+<Sync time="1838.807"/>
+hvaða verðbólga er að fara hér úr böndunum
+<Sync time="1841.663"/>
+það hefur verið margsinnis greint # það er hækkun á hú- á fasteignaverði og það er hækkun á olíu # og eldsneyti
+<Sync time="1849.849"/>
+verðbólgan skiptir okkur máli ef hún er hærri hér en í nágrannalöndunum og samkeppnislöndunum olíuhækkanir erlendis skipta íslenskt efnahagslíf ekki neitt koma eng- engu við þau ganga yfir heiminn allan og breyta engu um samkeppnisstöðuna
+<Event desc="óskýrt" type="pronounce" extent="previous"/>
+
+<Sync time="1864.667"/>
+þannig að þetta er staðan sem við stöndum frammi fyrir virðulegi forseti
+<Sync time="1868.449"/>
+</Turn>
+<Turn speaker="spk15" startTime="1868.449" endTime="1890.225">
+við klárum # sjálfsögðu fjárlagafrumvarpið en það er ærin ástæða fyrir alla # að tala og fara í gegnum stöðu íslenska atvinnulífsins vegna þess að atvinnulífið er í verulegri hættu og því er 
+<Event desc="bjalla" type="noise" extent="begin"/>
+ógnað með þeim ráðstöfunum sem Seðlabankinn
+<Event desc="bjalla" type="noise" extent="end"/>
+ 
+<Event desc="bjalla" type="noise" extent="begin"/>
+telur sig einan geta notað
+<Event desc="bjalla" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1890.225" endTime="1896.94">
+<Sync time="1890.225"/>
+þá tekur til máls háttvirtur tíundi þingmaður Suðurkjördæmis Jón_Gunnarsson um fundarstjórn forseta
+</Turn>
+<Turn speaker="spk7" startTime="1896.94" endTime="1921.013">
+<Sync time="1896.94"/>
+virðulegi forseti ég vil nú byrja á því að þakka hæstvirtum þingmanni Einari_Oddi_Kristjánssyni fyrir það að staðfesta hér í ræðu sinni að forsendur veigamikil forsenda í fjárlagafrumvarpinu eins og gengismál sé brostin
+<Sync time="1908.97"/>
+e það vakti vonbrigði 
+<Comment desc="dæsir"/>
+ mín þegar ég heyrði hæstvirtan forseta kveða hér upp úrskurð sinn um það hvort fresta ætti umræðu # og e
+<Sync time="1921.013"/>
+</Turn>
+<Turn speaker="spk7" startTime="1921.013" endTime="1970.476">
+það er reyndar ekki í fyrsta skipti sem að # ég velti fyrir mér þar sem ég stend hér í ræðustól og og og horfi fram á hvernig mál fara fram hér í í þinginu að ég velti fyrir mér # hvort að forseti þingsins hæstvirtur sé forseti þingmanna
+<Sync time="1939.153"/>
+ég hélt að hæstvirtur forseti ætti að gæta hagsmuna þingmanna gagnvart fjárlagavaldinu og jafnframt að halda í heiðri Alþingis eða þingsköpum þingsköp Alþingis 
+<Sync time="1952.008"/>
+og aðeins til að bæta kannski í þann sarp sem að forseti hefur þegar hann veltir fyrir sér hvort hann ætti að verða við þessari sjálfsögðu ósk okkar sem að hér komum upp að þá ætla ég að fara yfir eitt mál í viðbót # þar sem í raun er # búið að brjóta þingsköp á okkur sem að störfum í fjárlaganefnd
+<Sync time="1970.476"/>
+</Turn>
+<Turn speaker="spk7" startTime="1970.476" endTime="2007.743">
+í tuttugustu_og_fimmtu grein þingskapa segir 
+<Event desc="les" type="pronounce" extent="begin"/>
+fjárlaganefnd á rétt á að fá þær upplýsingar
+<Event desc="les" type="pronounce" extent="end"/>
+ með leyfi forseta 
+<Event desc="les" type="pronounce" extent="begin"/>
+sem hún telur nauðsynlegar um rekstur og fjárhagsáætlanir fyrirtækja og stofnana sem óska eftir framlögum úr ríkisssjóði # ennfremur er þeim stofnunum ríkisins er fást við efnahagsmál skylt að veit nefndinni upplýsingar og aðstoð sem hún þarf á að halda við afgreiðslu þingmála
+<Event desc="les" type="pronounce" extent="end"/>
+ 
+<Comment desc="einhver ræskir sig"/>
+
+<Sync time="1996.332"/>
+ég vakti athygli á því hér # við síðustu við þriðju umræðu fjáraukalaga að # okkur hefði ekki borist upplýsingar sem við báðum um í tengslum við fjárlagavinnuna
+<Sync time="2007.743"/>
+</Turn>
+<Turn speaker="spk7" startTime="2007.743" endTime="2052.449">
+við óskuðum eftir stöðu stofnana ríkisins miðað við þrítugasta september # hver hún væri # og einnig óskuðum við eftir áætlaðri lokastöðu þessara sömu stofnana í lok ársins
+<Sync time="2021.428"/>
+
+<Event desc="ber í borð" type="noise" extent="begin"/>
+þær upplýsingar hafa ekki borist okkur ennþá þær upplýsingar hafa ekki borist okkur ennþá og hér er verið að brjóta á okkur þingsköp
+<Event desc="ber í borð" type="noise" extent="end"/>
+
+<Sync time="2032.146"/>
+og ég ætla að vona að hæstvirtur forseti hafi nú þann dug í sér að verja okkur þingmenn fyrir því # að verið sé að brjóta á okkur þingsköp
+<Sync time="2041.735"/>
+einnig óska ég eftir því að hæstvirtur forseti taki til sjálfstæðrar skoðunar hvernig
+<Event desc="kvednig" type="pronounce" extent="previous"/>
+ fjárlögin fóru í gegnum efnahags-_og_viðskiptanefnd
+<Sync time="2052.449"/>
+að við skulum vera hér með álit við þriðju umræðu 
+<Event desc="hækkar róm" type="pronounce" extent="begin"/>
+</Turn>
+<Turn speaker="spk7" startTime="2052.449" endTime="2087.458">
+eftir að Seðlabankinn heimsótti nefndina í gær
+<Event desc="hækkar róm" type="pronounce" extent="end"/>
+
+<Sync time="2060.026"/>
+að við skulum vera hér með eina álit meirihluta efnahags-_og_viðskiptanefndar sem segir að spá um þjóðhagsforsendur hafi ekki breyst frá framlagningu frumvarpsins
+<Sync time="2070.11"/>
+og eins og ég sagði í fyrri ræðu 
+<Event desc="skrjáf í pappír" type="noise" extent="begin"/>
+minni ég var á þessum fundi efnahags-_og_viðskiptanefndar # ég spurði hæst- háttvirtan formann nefndarinnar hvort ekki ætti að koma nýtt álit í ljósi nýrra upplýsinga 
+<Event desc="bjalla" type="noise" extent="begin"/>
+ 
+<Event desc="bjalla" type="noise" extent="begin"/>
+# og hann taldi það ekki þurfa
+<Event desc="skrjáf í pappír" type="noise" extent="end"/>
+
+<Sync time="2084.381"/>
+segir þetta ekki allt sem þarf # hæstvirtur
+<Event desc="bjalla" type="noise" extent="end"/>
+ forseti
+</Turn>
+<Turn speaker="spk3" startTime="2087.458" endTime="2097.185">
+<Sync time="2087.458"/>
+þá tekur til máls háttvirtur annar þingmaður Norðvesturkjördæmis Jóhann_Ársælsson um fundarstjórn forseta
+<Sync time="2093.549"/>
+
+<Comment desc="fótatak"/>
+
+</Turn>
+<Turn speaker="spk17" startTime="2097.185" endTime="2129.638">
+<Sync time="2097.185"/>
+já hæstvirtur forseti hér hafa menn rætt um það að fresta þessum fundi og # gefa sér tíma til þess að skoða málin í ljósi þeirra upplýsinga sem að hafa verið að koma fram 
+<Sync time="2106.912"/>
+og ég verð nú satt að segja að segja það að ég undrast mjög að háttvirtur þingmaður Einar_Oddur_Kristjánsson skuli nú ekki taka undir þá kröfu # eftir ræðu sína hér í dag # þar sem hann lýsti því hvers konar fár myndi nú verða í samfélaginu í kjölfarið á tiltektum Seðlabankans 
+<Comment desc="ýmis hljóð í bakgrunni"/>
+
+<Sync time="2129.638"/>
+</Turn>
+<Turn speaker="spk17" startTime="2129.638" endTime="2167.964">
+og i # það er eiginlega ótrúlegt hvernig
+<Event desc="kvednin" type="pronounce" extent="previous"/>
+ # þessi háttvirti þingmaður kemur stundum í umræður # og i í þessu tilfelli keyrir nú úr hófi i spilar út sínum stærstu ásum # og kemur svo aftur í ræðustól og segir það á bara ekkert að gera 
+<Event desc="saman" type="pronounce" extent="begin"/>
+með þetta
+<Event desc="saman" type="pronounce" extent="end"/>
+ við skulum bara halda áfram og klára fjárlagaumræðuna og afgreiða hana hér í kvöld eða nótt
+<Sync time="2155.379"/>
+var þetta þá bara til þess að draga athygli að háttvirtum þingmanni sem að að þessi ræðuhöld voru # eða var einhver meining með því
+<Sync time="2167.964"/>
+</Turn>
+<Turn speaker="spk17" startTime="2167.964" endTime="2217.433">
+fj- e fjárlögin eru auðvitað framlag hins opinbera til þess að halda stöðugleika í þjóðfélaginu og þegar að forsendur fyrir þeim # breytast snarlega # sem að mátti vel heyra á ræ- ræðu háttvirts þingmanns að myndi vera að gerast # þá hljóta menn að þurfa að fara yfir málið aftur # og velta því fyrir sér # hvað er hægt að gera í í því # að koma til móts við þær breytingar sem að liggja í loftinu 
+<Comment desc="hljóð í bakgrunni"/>
+
+<Sync time="2199.514"/>
+ég ætla ekki að gagnrýna Seðlabankann # fyrir það sem að hann gerði
+<Sync time="2203.914"/>
+einfaldlega vegna þess að þar á bæ telja menn að það hafi verið staðið þannig að málum í þessu samfélagi að það þurfi að grípa í neyðarbremsuna
+<Event desc="neyðar#bremsuna" type="pronounce" extent="previous"/>
+ og þetta eru þau tæki sem Seðlabankinn hefur um hefur í höndunum
+<Sync time="2217.433"/>
+það má velta því fyrir sér 
+<Comment desc="einhver ræskir sig"/>
+</Turn>
+<Turn speaker="spk17" startTime="2217.433" endTime="2254.4">
+ hvort að það að Seðlabankinn er að hætta að kaupa gjaldeyri # og hvort að það að hann skuli bæta í vaxtahækkanir með þvílíkum hætti sem gert var í gær # hvort að þar sé of langt gengið
+<Sync time="2232.340"/>
+en ef að afleiðingarnar af því verða með svipuðum hætti eins og menn hafa talað um hér þá hljóta menn að þurfa að fara yfir málin aftur
+<Sync time="2238.861"/>
+það er svo pínulítið hagkerfi í þessu landi # að það er # ætti að vera orðið hverjum manni ljóst að ef að menn nota ekki öll ráð til að stjórna því af skynsemi að þá mun illa fara
+<Sync time="2254.4"/>
+það hefur borist frá greiningardeildum bankanna # að þeir sem hafa tekið stöðu með krónunni eins og það er kallað # gjaldeyriskaupendur
+<Event desc="gjaldeyris#kaupendur" type="pronounce" extent="previous"/>
+</Turn>
+<Turn speaker="spk17" startTime="2254.4" endTime="2296.184">
+ eða eða þeir sem kaupa hin ýmsustu skuldabréf á á á markaði # að þeir séu orðnir miklu miklu stærri í þeim þeim hlutum heldur en þeir voru tvö_þúsund_og_tvö þegar að gengið féll # og að þeir munu að öllum líkindum # hverfa á braut eftir ár
+<Sync time="2283.863"/>
+eftir akkúrat ár þá munu þeir hverfa á braut # og hvernig
+<Event desc="kvudnig" type="pronounce" extent="previous"/>
+ fer þá fyrir íslensku samfélagi
+<Sync time="2291.065"/>
+eigum við þá ekki von á svipaðri kollsteypu eða 
+<Event desc="bjalla" type="noise" extent="begin"/>
+miklu verri heldur en tvö_þúsund_og_tvö
+<Event desc="bjalla" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2296.184" endTime="2305.51349102">
+<Sync time="2296.184"/>
+háttvirtur fjórði þingmaður Suðurkjördæmis Lúðvík_Bergvisson tekur til máls um fundarstjórn forseta
+<Sync time="2302.658"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="2305.51349102" endTime="2324.681">
+<Sync time="2305.51349102"/>
+
+<Sync time="2305.759"/>
+
+<Comment desc="ræskir sig"/>
+ virðulegi # forseti
+<Event desc="forsendi" type="pronounce" extent="previous"/>
+
+<Sync time="2308.458"/>
+okkur hér alla minnsta kosti þingmönnum stjórnarandstöðunnar er nokkur vandi á höndum
+<Sync time="2313.694"/>
+hér hefur komið fram að einkum af hálfu talsmanns fjárlaganefndar háttvirts þingmanns Einars_Odds_Kristjássonar að forsendur # fyrir fjárlögum eru gersamlega brostnar
+<Sync time="2324.681"/>
+</Turn>
+<Turn speaker="spk9" startTime="2324.681" endTime="2348.105">
+þetta hefur komið fram með mjög skýrum hætti # og við höfum á það bent að það sé skynsamlegt við þessar aðstæður # að skoða þá frekar forsendur fjárlaga hvort það sé ástæða til þess að ræða það frekar # því að fjárlögin eru eitthvað sem við eigum að taka alvarlega
+<Sync time="2339.893"/>
+við eigum að afgreiða þetta frá okkur á þann hátt að sómi sé að og þa- þannig að við höfum trú á því að við séum á réttri leið
+<Sync time="2348.105"/>
+látum liggja á milli hluta hver hafi rétt fyrir sér í því hvers vegna forsendur fjárlaga séu brostnar # hvort það sé sökum þess að Seðlabankinn hafi ekki hundsvit á efnahagsmálum og sé að grípa til aðgerða sem grafi undan útflutningsgreinunum eða hvort að það sé ríkisstjórnin
+<Event desc="óskýrt" type="pronounce" extent="previous"/>
+</Turn>
+<Turn speaker="spk9" startTime="2348.105" endTime="2381.45">
+ vegna aðhaldsleysis í fjárlagagerðinni leiði til þessara að þess að forsendur eru brostnar eða hvort það eru bankarnir sem hafa dælt peninga út í e hérna
+<Event desc="hédna" type="pronounce" extent="previous"/>
+ hafa farið í útlán langt umfram það sem eðlilegt þykir
+<Sync time="2377.176"/>
+látum það liggja á milli hluta hver er nú nábyrgur fyrir þessari stöðu
+</Turn>
+<Turn speaker="spk9 spk18" startTime="2381.45" endTime="2381.45">
+<Sync time="2381.45"/>
+<Who nb="1"/>
+</Turn>
+<Turn speaker="spk9 spk18" startTime="2381.45" endTime="2416.479">
+en kjarninn er hins vegar sá hvernig sem við lítum á það að forsendur fjárlaga virðist gersamlega brostnar # bæði hvað varðar að bæði hvað varðar það sem sem fram kemur í ræðu talsmanns fjárlaganefndar einnig það sem fram kemur í í þjóðhagsspá Seðlabankans # og á þessum forsendum # á þessum forsendum # leggja þingmenn stjórnarandstöðunnar til að við við hægjum aðeins á okkur skoðum það frekar til þess að tryggja að fjárlagafrumvarpið verði þannig úr garði gert að það sé v- sé líklegt til þess að fara nálægt raunveruleikanum
+<Who nb="2"/>
+já
+</Turn>
+<Turn speaker="spk9" startTime="2416.479" endTime="2422.222">
+<Sync time="2416.479"/>
+þá segir hæstvirtur forseti að það sé ekki ástæða til þess að 
+<Event desc="skrjáf í pappír" type="noise" extent="begin"/>
+skoða þetta frekar
+<Event desc="skrjáf í pappír" type="noise" extent="end"/>
+
+<Sync time="2422.222"/>
+kannski er það nú bara þannig að að að þingmenn minnihlutans hér á hinum háa Alþingi geta lítið annað gert # en að benda á á þessar forsendur og benda á þessar breytingar # en það er þá einnig ljóst að þegar við verðum komin inn í næsta ár og fjárlagafrumvarpið
+<Event desc="fjárlagafrumal#frumvarpið" type="pronounce" extent="previous"/>
+</Turn>
+<Turn speaker="spk9" startTime="2422.222" endTime="2458.115">
+ reynist hjóm eitt hvað varðar tekjur og gjöld þá er það að minnsta kosti ekki vegna þess að að minnihlutinn hafi ekki bent á þessar forsendu- að þessar forsendur hafi verið brostnar heldur vegna þess að meirihlutinn neitaði að hlusta á það
+<Sync time="2454.492"/>
+það er mikilvægt að þetta liggi fyrir hér í þessari umræðu
+</Turn>
+<Turn speaker="spk3" startTime="2458.115" endTime="2469.277">
+<Sync time="2458.115"/>
+þá tekur til máls um fundarstjórn forseta háttvirtur sjöundi þingmaður Norðausturkjördæmis Einar_Már_Sigurðarson
+<Sync time="2465.65"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2469.277" endTime="2482.783">
+<Sync time="2469.277"/>
+herra forseti ég verð að lýsa yfir miklum vonbrigðum við viðbrögð hæstvirts forseta við þeirri málefnalegu ósk að hér verði gert örstutt hlé á fundi meðan þingflokksformenn funduðu og reyndu að komast að samkomualgi um framvindu umræðunnar
+<Sync time="2482.783"/>
+</Turn>
+<Turn speaker="spk2" startTime="2482.783" endTime="2505.436">
+u ég taldi mig færa málefnaleg rök fyrir þessari ósk og ég held að háttvirtur þingmaður Einar_Oddur_Kristjánsson hafi í raun og veru gert það einnig hér bæði í ræðu sinni í dag og svo hér þegar hann kom hér í þessa umræðu vegna þess að hátttvirtur þingmaður sagði að það væri ærin ástæða til þess að ræða efnahgsmál
+<Sync time="2497.893"/>
+og hvað er fjárlagaumræðan annað heldur en umræða um efnahagsmál það er auðvitað stærsta umræðan sem hér fer fram á þingi um efnahagsmál
+<Sync time="2505.436"/>
+þannig að ég verð að óska eftir því við hæstvirtan forseta að hæstvirtur forseti íhugi það enn betur hvort ekki megi verða við þessari ósk okkar # vegna þess að ella verðum við að kanna það hvort það sé ekki rétt að leggja hér fram tillögu um það # að fjárlögin
+<Event desc="fjárlölögin" type="pronounce" extent="previous"/>
+</Turn>
+<Turn speaker="spk2" startTime="2505.436" endTime="2551.607">
+ fjárlagafrumvarpið verði aftur sent til fjárlaganefndar og byggja þá tillögu á ákvæðum í tuttugustu_og_þriðju grein þingskapalaga
+<Sync time="2528.432"/>
+mér skilst að vísu á reyndum þingmönnum háttvirtum að það hafi aldrei verið gert áður # en það gæti verið ástæða til þess nú ef að hæstvirtur forseti getur ekki orðið við þessari beiðni # sem eins og ég hef margtekið fram og fleiri háttvirtir þingmenn er afskaplega málefnaleg # og hún er lögð hér fram í fyllstu alvöru
+<Sync time="2547.945"/>
+hún er lögð fram hér til að það megi ná sáttum um umræðuna
+<Sync time="2551.607"/>
+</Turn>
+<Turn speaker="spk2" startTime="2551.607" endTime="2570.69">
+hún er lögð fram til þess að við getum bætt fjárlögin vegna þess að það er komið fram hér ítrekað að það er býsna mikilvægt að fjárlögin séu sem allra allra best # tengd raunveruleikanum 
+<Comment desc="hljóð í bakgrunni"/>
+
+<Sync time="2563.377"/>
+en það verður að segja herra forseti að viðhorf sem hér hafa komið fram til fjárlaga eru auðvitað hálf skelfileg
+</Turn>
+<Turn speaker="spk13 spk19" startTime="2570.69" endTime="2593.878">
+<Sync time="2570.69"/>
+<Who nb="1"/>
+það er að segja það hefur komið hér fram # hjá báðum þeim fulltrúum sem hér hafa talað fyrir hönd stjórnarliðsins # og ég endurtek 
+<Event desc="áhersla" type="pronounce" extent="begin"/>
+báðum
+<Event desc="áhersla" type="pronounce" extent="end"/>
+ vegna þess að það er nú allur fjöldinn # þeir eru tveir # hátttvirtir þingmenn formaður og varaformaður fjárlaganefndar sem hafa verið þátttakendur hér í umræðunni en við skulum ekki gleyma því að það er hundrað_prósent fjölgun frá umræðunni um í þriðju umræðu um um fjáraukalög hundrað_prósent fjölgun ((gripið fram í (karlmannsrödd): (x))) 
+<Who nb="2"/>
+munar um mig
+</Turn>
+<Turn speaker="spk13" startTime="2593.878" endTime="2600.541">
+<Sync time="2593.878"/>
+þannig að við munum væntanlega fá það kannski á næsta ári að að það verði aftur hundrað_pósent og þeir nái þátttökunni fjórum
+</Turn>
+<Turn speaker="spk13 spk20" startTime="2600.541" endTime="2610.513">
+<Sync time="2600.541"/>
+<Who nb="1"/>
+en þetta viðhorf er auðvitað skelfilegt og lýsir sér auðvitað í því þegar við horfum hér á ráðherrabekkina hér er ekki einn einasti hæstvirtur ráðherra við umræðuna ekki einn einasti
+<Who nb="2"/>
+
+<Comment desc="óskiljanlegt"/>
+ ná í þá sjálfur
+</Turn>
+<Turn speaker="spk13" startTime="2610.513" endTime="2640.268">
+<Sync time="2610.513"/>
+og þátttakan og þátttakan er þessi það eru tveir háttvirtir þingmenn sem taka þátt og svo kemur háttvirtur þingmaður formaður fjárlaganefndar Magnús_Stefánsson og (ta-) talar um sjónarspil og krydd í umræðuna að hér sé komið fram með málefnalega ósk um það að við vöndum vinnubrögð að við vöndum vinnubrögð
+<Sync time="2630.865"/>
+ég hélt að háttvirtur þingmaður sem er nú ekki búinn að vera svo lengi formaður fjárlaganefndar að hann væri ekki orðinn svo samdauna ástandinu að hann væri orðinn á móti því að menn vönduðu verk sín
+<Sync time="2640.268"/>
+</Turn>
+<Turn speaker="spk13" startTime="2640.268" endTime="2652.628">
+herra forseti ég ítreka enn ósk mína um það að virðulegur forseti íhugi það betur hvort það er ekki hægt að verða við þessari litlu einföldu ósk 
+<Comment desc="skrjáf í pappír"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2652.628" endTime="2661.218">
+<Sync time="2652.628"/>
+til máls tekur háttvirtur níundi þingmaður norð- Reykajvíkurkjördæmis_norður Helgi_Hjörvar um fundarstjórn forseta 
+<Sync time="2659.475"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2661.218" endTime="2669.469">
+<Sync time="2661.218"/>
+virðulegur forseti mér er spurn hvort að þingmenn stjórnarliðsins hafi skuldbundið sig sem jólasveina einhvers staðar
+</Turn>
+<Turn speaker="spk6 spk21" startTime="2669.469" endTime="2699.235">
+<Sync time="2669.469"/>
+<Who nb="1"/>
+því að hér er lögð rík áhersla á það að þingið komist heim þrettán dögum fyrir jól virðulegur forseti þrettán dögum fyrir jól og mér er það umhugsunarefni hvað kallar þingmenn stjórnarliðsins heim til sín einmitt þrettán dögum fyrir jól # úr því að þeir eru tilbúnir til þess að afgreiða fjárlagafrumvarpið # grundvallarrit um efnahagsmál íslensku þjóðarinnar fyrir heilt ár vitandi vits um að forsendur þess séu rangar # vitandi vits um það að forsendur þess séu rangar
+<Who nb="2"/>
+jólaseríur
+</Turn>
+<Turn speaker="spk6" startTime="2699.235" endTime="2725.115">
+<Sync time="2699.235"/>
+og ég árétta virðulegur forseti það sem að kom fram í máli háttvirts þingmanns Einars_Más_Sigurðarsonar
+<Event desc="Sigurðs#sonar" type="pronounce" extent="previous"/>
+ hér áðan # að vera kann að hér þurfi að flytja tillögu um það # þó að einsdæmi sé # að vísa frumvarpinu aftur til fjárlaganefndar # og við þurfum þá bara að efna hér til atkvæðagreiðslu
+<Sync time="2717.9"/>
+ég treysti því að þingmenn stjórnarliðsins geti þá mætt til þeirrar atkvæðagreiðslu og séu ekki uppteknir við aðrar skuldbindingar í jólamánuðinum
+<Sync time="2725.115"/>
+</Turn>
+<Turn speaker="spk6" startTime="2725.115" endTime="2769.78">
+en ég hlýt að kalla eftir því virðulegur forseti # að þingmenn séu virtir þess # að þau lög sem að þeir afgreiði hér frá Alþingi # séu sómasamlega frágengin # og að hér gangi ekki forysta ríkisstjórnarinnar í ræðustólinn # háttvirtur þingmaður Einar_Oddur_Kristjánsson # og lýsi því bara yfir # að þær forsendur sem að hér séu undir meðal annars um gengi íslensku krónunnar # þær sé bara ekkert að marka
+<Sync time="2751.7"/>
+og við hljótum að hafa tíma til þess # að taka eitthvað af þessum þrettán dögum eða ef í það fer þessu nærri tveggja mánaða jólafríi þingmanna # sem að hlýtur nú að vera einsdæmi norðan Alpafjalla að nokkur starfsstétt sé með hátt í tvo mánuði í 
+<Event desc="raddir í bakgrunni" type="noise" extent="begin"/>
+jólafrí
+<Sync time="2769.78"/>
+og ég skora á # ég skora á þingmenn stjórnarliðsins # að sýna þann metnað hér að leggja í þá vinnu hér í desembermánuði sem að þarf til þess að hafa þetta frumvarp sæmilega rétt og hvet háttvirtan forseta
+<Event desc="raddir í bakgrunni" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk6" startTime="2769.78" endTime="2793.801">
+ hvet háttvirtan forseta til þess # að gera hér hlé á fundi og kalla saman formenn þingflokka til umræðna um þetta
+<Sync time="2792.13"/>
+
+<Comment desc="fótatak, einhver ræskir sig"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2793.801" endTime="2802.261">
+<Sync time="2793.801"/>
+til máls tekur háttvirtur áttundi þingmaður Norðvesturkjördæmis um fundarstörf forseta
+<Sync time="2799.631"/>
+
+<Comment desc="fótatak, skrjáf í pappír"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="2802.261" endTime="2824.81">
+<Sync time="2802.261"/>
+herra forseti 
+<Comment desc="ýmis hljóð í bakgrunni"/>
+
+<Sync time="2804.491"/>
+ég tel alveg augljóst # að það séu svo fyllilegar ástæður til þess að að það verði gert hlé á þingfundi # og þingflokksformenn fari yfir stöðu málsins og ræði það hvort ekki sé # orðið brýnt og eðlilegt að # málið fari aftur til # fjárlaganefndar
+<Sync time="2824.81"/>
+</Turn>
+<Turn speaker="spk10" startTime="2824.81" endTime="2873.607">
+fyrsta lagi nú í öðru lagi þá er sjálfsagt líka að fara yfir það hvort ekki sé bara eðlileg og sjálfsögð krafa að ráðherrar efnahagsmála sérstaklega # hæstvirtur forsætisráðherra sem að að Seðlabanki heyrir nú undir og hæstvirtur fjármálaráðherra sem að er ábyrgur fyrir framkvæmd fjárlaganna hvort að þeir séu ekki við hér umræðuna
+<Sync time="2848.904"/>
+mér finnst það reyndar svo m- sjálfsagt að það ætti ekki að þurfa að hafa orð á því
+<Sync time="2852.703"/>
+nú ekki hvað síst í ljósi þess að i # í dag eða
+<Event desc="óskýrt" type="pronounce" extent="previous"/>
+ í gærkvöldi með útkominni skýrslu Seðlabankans og mati hans á stöðu efnahagsmála og forsenda 
+<Comment desc="einhver ræskir sig"/>
+ þeirra fyrir næstu mánuði og ár
+<Sync time="2867.095"/>
+þær forsendur eru svo gjörólíkar því sem að fjárlagafrumvarpið er unnið á
+<Sync time="2873.607"/>
+</Turn>
+<Turn speaker="spk10" startTime="2873.607" endTime="2909.412">
+þannig að það væri e það ef væri það e er vanvirða að mínu mati # við þingið # ef við afgreiðum hér fjárlög án þess að farið sé yfir þessar forsendur # upp á nýtt
+<Sync time="2886.765"/>
+við höfum hér or- hér orð e hátttvirt þingmanns Einar_Odds_Kristjánssonar sem að að með á á með sínum heiðarlega hætti lýsti # sínum skoðunum á aðgerðum Seðlabankans 
+<Comment desc="hljóð í bakgrunni"/>
+
+<Sync time="2902.025"/>
+þó að við séum ekki sammála að öllu leyti að Seðlabankinn sé sökudólgurinn auðvitað er það efnahagsstefna ríkisstjórnarinnar sem er það
+<Sync time="2909.412"/>
+</Turn>
+<Turn speaker="spk10" startTime="2909.412" endTime="2968.846">
+en hann dró engan dul á það háttvirtur þingmaður að þar væru kynntar allt aðrar forsendur # heldur en # fjárlagafrumvarpið nú byggir á # allt aðrar # og er þetta þá eini aðilinn # utan # u- utan u fjárlaga- u- utan fjármálaráðuneytisins # opinber aðili sem að fjallar um efnahagsmál # eftir að Þjóðhagsstofnun var lögð niður
+<Sync time="2934.378"/>
+það verður því að segjast að það bara er alveg # l eindregin krafa og ég styð þá kröfu afar eindregið að það sé gert hlé á þessum # þingfundi það sé gert hlé á meðferð fjárlagafrumvarpsins # e það fari aftur til þingnefndar # við fáum Seðlabankann til fundar við fjárlaganefnd # þar sem farið verður yfir þau atriði sem að að að Seðlabankinn og fjárlaganefnd vilja þar ræða # en það er alveg gjörólíkur
+<Event desc="gjörólík#kur" type="pronounce" extent="previous"/>
+ grunnur sem að þeir leggja hérna upp með
+<Sync time="2968.846"/>
+</Turn>
+<Turn speaker="spk10" startTime="2968.846" endTime="2994.617">
+nú kannski eu sjá menn að það væri eðlilegt og sjálfsagt að hætta við þessar vitlausu skattalækkanir
+<Sync time="2975.741"/>
+það væri þá ávinningur út af fyrir sig # ef að það næði fram # en að vera hér svo í kross # við hér afgreiða 
+<Event desc="bjalla" type="noise" extent="begin"/>
+fjárlagafrumvarp á allt öðrum forsendum en Seðlabankinn er að vinna á það er(u) fáránleg vinnubrögð herra forseti
+<Event desc="bjalla" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2994.617" endTime="3001.725">
+<Sync time="2994.617"/>
+til máls tekur háttvirtur fimmti þingmaður Norðausturkjördæmis Steingrímur_J_Sigfússon um fundarstjórn
+<Event desc="fundarstjódn" type="pronounce" extent="previous"/>
+ forseta
+
+<Sync time="3000.322"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="3001.725" endTime="3016.235">
+<Sync time="3001.725"/>
+já herra forseti ég vil nú eins og fleiri ræðumenn biðja hæ- hæstvirtan forseta að hugleiða það vel hvort að # skoða nú hug sinn vel um það hvort ekki sé skynsamlegt að gera hlé á þessari umræðu
+<Sync time="3012.564"/>
+það getur nú varla sakað að menn hittist og ræði málin
+<Sync time="3016.235"/>
+</Turn>
+<Turn speaker="spk13" startTime="3016.235" endTime="3047.433">
+það er ágætlega rökstutt hér og og liggur fyrir # að það eru breyttar forsendur frá því að fjárlagafrumvarpið var lagt fram ég tala nú ekki um það og jafnvel frá því að menn héldu sem þeir héldu að mundi verða þegar það yrði afgreitt núna
+<Sync time="3030.875"/>
+i það þarf ekkert annað en skoða bara gengið og þróun þess og viðbrögð þess við ákvörðunum Seðlabankans til þess að sjá # að að þar eru alvarlegir hlutir á ferð sem snúa að stöðu atvinnulífsins
+<Sync time="3042.162"/>
+þar er auðvitað á ferð u fyrst og fremst hinn dýri herkostnaður vegna stóriðjustefnunnar
+<Sync time="3047.433"/>
+það er augljóst mál að að # að stóre- stóriðjufjárfestingarnar og væntingarnar sem þeim tengjast halda hér uppi genginu og þegar Seðlabankinn á engin önnur úrræði að eigin mati en að keyra hér upp vextina # þá þá stefnir náttúrlega
+<Event desc="náttla" type="pronounce" extent="previous"/>
+</Turn>
+<Turn speaker="spk13" startTime="3047.433" endTime="3089.228">
+ þarna
+<Event desc="þadna" type="pronounce" extent="previous"/>
+ í mikið óefni og það munar nú um minna # en heilar tí- heillar tíu prósenta mun á gengisvísitölunni ef hún er í hundrað_og_fimmtán í staðinn fyrir þau hundrað_tuttugu_ogfimm sem að fjárlagafruvmarpið gerir ráð fyrir að að hún sé
+<Sync time="3076.728"/>
+og það er ástæða til að óttast þegar maður ber saman ýmsar aðstæður nú við það sem var til dæmis nítján_hundruð_áttatíu_og_sjö og aftur tvö_þúsund_og_eitt í aðdraganda gengiskollsteypnanna og erfiðleikanna þá
+<Sync time="3089.228"/>
+þetta veit ég að háttvirtur þingmaður Einar_ Oddur_Kristjánsson kann og veit og kannski á það sinn þátt í því hvernig
+<Event desc="kvednig" type="pronounce" extent="previous"/>
+</Turn>
+<Turn speaker="spk13" startTime="3089.228" endTime="3113.212">
+ hann tekur hér til orða
+<Sync time="3096.23"/>
+e það er ekkert því til fyrirstöðu að nefnd kalli mál til sín á hvaða stigi sem er samanber u ákvæði um það hér í tuttugustu_og_þriðju grein þingskapa
+<Sync time="3106.476"/>
+ég man fyrir víst að það hefur gerst að samkomulag hefur orðið um að nefnd tæki mál aftur til sín í miðri umræðu
+<Sync time="3113.212"/>
+</Turn>
+<Turn speaker="spk13" startTime="3113.212" endTime="3158.845">
+mi- mig rekur ekki minni til að um það hafi verið greidd atkvæði en ég man að samkomulag hefur tekist um slíkt þegar menn hafa orðið ásáttir um að gera breytingar á frumvarpi eða að breyttar aðstæður væru væru orðnar að þá hafi menn u náð samkomulagi um það að að umræðu yrði frestað og mál tekið aftur til nefndar og skilað framhaldsnefndaráliti
+<Sync time="3130.625"/>
+ég fullyrði það að það eru mörg fordæmi fyrir slíku # kannski ekki fyrir því að það hafi verið e knúið fram með með tillögu
+<Sync time="3137.457"/>
+það er athyglisvert að eina framsöguræða meirihlutans hér við þessa þriðju umræðu fjárlaga það er ræða hátttvirts þingmanns Einars_Odds_Kristjánssonar
+<Sync time="3144.859"/>
+það er auðvitað ekki hægt að (ta-) að kalla einnar mínútu kurteisisræðu háttvirts þingmanns Magnúsar_Stefánssonar framsöguræðu # ekki heldur u mjög stutta ræðu Gunnars_Birgissonar sem mælti fyrir e nefndaráliti um heiðurslaun
+<Event desc="heiðursulaun" type="pronounce" extent="previous"/>
+ listamanna
+<Sync time="3158.845"/>
+</Turn>
+<Turn speaker="spk13" startTime="3158.845" endTime="3193.594">
+nei eina framsöguræðan fyrir meirihlutann er ræða háttvirts þingmanns Einars_Odds_Kristjánssonar og út á hvað gekk hún hún gekk út á að forsendur fjármála fjárlagafrumvarpsins væru brostnar # algerlega brostnar og það stefndi í hreint óefni vegna aðgerða Seðlabankans
+<Sync time="3175.637"/>
+og það er fagnaðarefni að hæstvirtur forsætisráðherra er kominn hér og kannski 
+<Comment desc="einhver ræskir sig"/>
+ lýsir sínum hug til þessara mála en ég tel það sanngjarna og vel rökstudda ósk að þessari umræðu verði nú frestað
+<Sync time="3186.241"/>
+það verði skotið á fundi og helst náist þar samkomulag um að nefndirnar taki málið aftur til sín og vinni það betur
+</Turn>
+<Turn speaker="spk3" startTime="3193.594" endTime="3201.633">
+<Sync time="3193.594"/>
+
+<Event desc="bjalla" type="noise" extent="end"/>
+ til máls tekur hæstvirtur forsætisráðherra um fundarstjórn forseta
+<Sync time="3200.514"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk22" startTime="3201.633" endTime="3230.573">
+<Sync time="3201.633"/>
+herra forseti
+<Sync time="3204.441"/>
+háttvirtir þingmenn hafa kvartað yfir því að # ráðherrar væru ekki hér til þess að ræða þau mál sem hér eru til umræðu
+<Sync time="3211.382"/>
+ég heyri það að margir háttvirtir þingmenn vilja # gera hér hlé og og breyta ýmsu vegna þess að það hafi komið fram nýjar upplýsingar frá Seðlabankanum
+<Sync time="3222.532"/>
+ríkisstjórnin byggir á þjóðhagsspá fjármálaráðuneytisins
+<Event desc="óskrýrt" type="pronounce" extent="previous"/>
+ # og það er engin ástæða til þess að breyta því
+<Sync time="3230.573"/>
+þjóðhagsspá Seðlabankans er nokkuð frábrugðin að því leyti til að hún gerir ráð fyrir sex_komma_eitt_prósent hagvexti á næsta ári en 
+<Comment desc="ræskir sig"/>
+</Turn>
+<Turn speaker="spk22" startTime="3230.573" endTime="3287.397">
+ ríkisstjórnin byggir á því að hagvöxtur verði fimm_prósent á á næsta ári
+<Sync time="3245.82"/>
+Seðlabankinn byggir á því að 
+<Event desc="hljóð í bakgrunni" type="noise" extent="begin"/>
+viðskiptahalli verði heldur minni # 
+<Event desc="hljóð í bakgrunni" type="noise" extent="end"/>
+ en þessi þjóðhagsspá Seðlabankans er að því leytinu til úrelt að hún byggir á því að stýrivextir Seðlabankans verði sjö_komma_tuttugu_og_fimm_prósent
+<Sync time="3262.184"/>
+nú hefur Seðlabankinn
+<Event desc="gripið fram í: óskiljanlegt" type="noise" extent="previous"/>
+ nú hefur Seðlabankinn ákveðið að hækka stýrivexti í átta_komma_tuttugu_og_fimm_prósent # sem væntanlega mun draga nokkuð úr hagvexti # ég held að það sé alveg ljóst að að hærri vextir koma til með að draga úr hagvexti # 
+<Comment desc="hljóð í bakgrunni"/>
+
+<Sync time="3281.498"/>
+þess vegna er engin ástæða til þess # að breyta hér til
+<Sync time="3287.397"/>
+</Turn>
+<Turn speaker="spk22" startTime="3287.397" endTime="3337.025">
+í báðum tilfellum er um spá að ræða # og við byggjum áfram á þeirri spá sem liggur til grundvallar fjárlagafrumvarpinu # og það er engin ástæða til þess að rjúka upp til handa og fóta og og breyta fjárlagafrumvarpinu
+<Sync time="3307.66"/>
+það kann vel vel að vera ef að þessi spá Seðlabankans rætist þó að það sé nú ekki nema að einhverju leyti # að fjárlaga- afgangurinn á fjárlögum verði meiri # en er það ekki það sem að háttvirtir þingmenn eru að biðja um # að afgangurinn verði meiri og afkoma ríkissjóðs betri # og ég sé ekki hvaða ástæða er til þess að að vera að gera hér eitthvert hlé til að fara ofan í það
+<Sync time="3337.025"/>
+</Turn>
+<Turn speaker="spk22" startTime="3337.025" endTime="3350.801">
+það væri ánægjulegt ef að það mundi gerast # og við skulum vona að það gangi eftir # en það er alveg ljóst að hærri stýrivextir # að mínu mati # draga úr þessum hagvexti á nýjan leik
+</Turn>
+<Turn speaker="spk3" startTime="3350.801" endTime="3363.102">
+<Sync time="3350.801"/>
+
+<Event desc="hljóð í bakgrunni" type="noise" extent="begin"/>
+til máls tekur háttvirtur þriðji þingmaður Norðausturkjördæmis Kristján_L._Möller um fundarstjórn forseta
+<Event desc="hljóð í bakgrunni" type="noise" extent="end"/>
+
+<Sync time="3358.883"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="3363.102" endTime="3392.462">
+<Sync time="3363.102"/>
+herra forseti það er ánægjulegt að hæstvirtur forsætisráðhera kemur og 
+<Event desc="skrjáf í pappír" type="noise" extent="begin"/>
+heiðrar Alþingi og þessa umræðu með nærveru sinni hér um þetta # 
+<Event desc="skrjáf í pappír" type="noise" extent="end"/>
+
+<Sync time="3369.824"/>
+ég vil spyrja
+<Event desc="spurja" type="pronounce" extent="previous"/>
+ hæstvirtan forsætisráðherra
+<Sync time="3371.748"/>
+hlustaði hann ekki á ræðu talsmanns varaformanns fjárlaganefndar hér áðan # þar sem að hann var að tala um aðgerðir Seðlabankans
+<Sync time="3381.359"/>
+
+<Comment desc="raddir í bakgrunni"/>
+ ég hefði haldið að það hefði verið þörf # á því fyrir hæstvirtan forsætisráðherra að hlusta á þann lestur sem að þar var viðhafður um aðgerðir Seðlabankans
+<Sync time="3392.462"/>
+</Turn>
+<Turn speaker="spk11" startTime="3392.462" endTime="3425.133">
+hæstvirtur forsætisráðherra talar um það að að fjárlög séu byggð á efnahagsspá fjármálaráðuneytisins
+<Event desc="óskýrt" type="pronounce" extent="previous"/>
+
+<Sync time="3398.644"/>
+það er alveg rétt
+<Sync time="3399.458"/>
+það er alveg rétt
+<Sync time="3400.913"/>
+þar er talað um gengisvísitölu hundrað_tuttugu_og_fimm
+<Sync time="3403.878"/>
+en hvar er gengisvísitalan
+<Event desc="gengisvísln#vísitalan" type="pronounce" extent="previous"/>
+ í dag nú við lokun hundrað_og_fimmtán
+<Sync time="3409.92"/>
+ef að fram fer sem horfir ef að það er rétt sem Seðlabankinn hefur sagt að kannski í hundrað_og_tíu_krónur
+<Sync time="3415.064"/>
+og það getur vel verið að hæstvirtur forsætisráðherra geti þá glaðst
+<Event desc="glast" type="pronounce" extent="previous"/>
+ glaðst yfir meiri afgangi í ríkissjóði
+<Sync time="3420.286"/>
+en hver verður staða útflutningsatvinnuveganna ef að þetta heldur svona áfram
+<Sync time="3425.133"/>
+</Turn>
+<Turn speaker="spk11" startTime="3425.133" endTime="3459.758">
+virðulegi forseti það er sem að það er að gerast hér e fjármálastefna ríkisstjórnarinnar byggist á mikilli eyðslu # og tekjur ríkissjóðs byggjast að af því # og síðan flæðir hér gjaldeyrir inn í landið og styrkir krónuna og svo framvegis og svo framvegis
+<Sync time="3441.457"/>
+
+<Event desc="hækkar róm" type="pronounce" extent="begin"/>
+við 
+<Event desc="bankar í borð" type="noise" extent="begin"/>
+erum hér stödd í vítahring
+<Event desc="bankar í borð" type="noise" extent="end"/>
+ og það er mjög alvarlegt mál virðulegi forseti að hæstvirtur forsætisráðherra komi svo hér rétt í lokin og láti eins og ekkert sé að en talar þó um að það geti vel verið að forsendur fjárlaga séu brostnar
+<Event desc="hækkar róm" type="pronounce" extent="end"/>
+
+<Sync time="3457.015"/>
+á þá ekki að fara yfir það strax
+<Sync time="3459.758"/>
+</Turn>
+<Turn speaker="spk11" startTime="3459.758" endTime="3514.617">
+virðulegi forseti má ég benda hæstvirtum forsætisráðherra á það að hér er dreift stjórnarfrumvarpi í dag á sama degi og við erum að ræða fjárlög # þar sem gert er ráð fyrir hundrað_og_þrjátíu til hundrað_og_fimmtíu_milljón_króna útgjöldum á næsta ári vegna Tækniháskóla og ég vil spyrja hæstvirtan forseta þingsins og óska eftir úrskurði um það hvort að það sé ekki skylda að taka það stjórnarfrumvarps sem hér hefur verið lagt fram # að taka það inn í fjárlögin þó að þetta sé lítil tala miðað við annað sem við erum að tala hér um
+<Sync time="3493.075"/>
+mér finnst það virðulegi forseti að ríkisstjórn hæstvirt ríkisstjórn og stjórnarmeirihlutinn eigi að sýna Alþingi þá virðingu # að taka þessi fjárlög sem hér eru að falla eins og spilaborg # taka þau til fjárlaganefndar og fara betur yfir þau
+<Sync time="3508.138"/>
+það er engin skömm að því # að skoða hlutina eftir þeim ábendingum sem hefur verið að koma frá Seðlabankanum meðal annars
+<Sync time="3514.617"/>
+það er nauðsynlegt # að kíkja í þennan jólapakka sem á að setja hér inn í 
+<Event desc="bankar í borð" type="noise" extent="begin"/>
+skrautumbúðir
+<Event desc="bankar í borð" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk11" startTime="3514.617" endTime="3530.118">
+ sem verður kannski þannig að áður en jólin ganga í garð þá verður þetta orðið hálf fúl- hál- hálfgerður fúlpakki
+<Sync time="3527.514"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3530.118" endTime="3545.078">
+<Sync time="3530.118"/>
+þá verður framhald umræðu um dagskrármálið Fjárlög_tvö_þúsund_og_fimm til máls tekur háttvirtur þingmaður Norðsvesturkjördæmis Anna_Kristín_Gunnarsdóttir
+<Sync time="3538.793"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+<Comment desc="upptöku lokið"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

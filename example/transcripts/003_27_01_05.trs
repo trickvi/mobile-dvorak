@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-13.dtd">
+<Trans scribe="Helga Birgisdóttir (Gunnar Hrafn Hrafnbjargarson)" audio_filename="003_27_01_05" version="4" version_date="051212">
+<Speakers>
+<Speaker id="spk1" name="036" check="no" type="female" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="029" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="R-2" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="001" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk7" name="008" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk8" name="057" check="no" type="female" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="Vatnalög, 1. umræða / um fundarstjórn forseta"/>
+</Topics>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="893.989" topic="to1">
+<Turn startTime="0" endTime="2.401" speaker="spk1 spk2">
+<Sync time="0"/>
+<Who nb="1"/>
+
+<Comment desc="hljóð í bakgrunni, bankað í borð"/>
+
+<Who nb="2"/>
+fundarstjórn forseta
+</Turn>
+<Turn speaker="spk1 spk7" startTime="2.401" endTime="9.187">
+<Sync time="2.401"/>
+<Who nb="1"/>
+háttvirtur sjöundi þingmaður Reykjavíkurkjördæmis_suður óskar eftir að gera athugasemd við fundarstjórn forseta
+<Who nb="2"/>
+
+<Comment desc="bankað í borð"/>
+ fundarstjórn forseta
+</Turn>
+<Turn speaker="spk2" startTime="9.187" endTime="33.427">
+<Sync time="9.187"/>
+forseti
+<Sync time="9.981"/>
+eins og háttvirtur þingmaður Kolbrún_Halldórsdóttir rakti í í furðu # góðri ræðu sinni # hér áðan # miðað við aðstæður 
+<Event desc="hljóð í bakgrunni" type="noise" extent="begin"/>
+allar # að þá er þetta mál
+<Event desc="hljóð í bakgrunni" type="noise" extent="end"/>
+ tekið á dagskrá með nokkuð undarlegum hætti
+<Sync time="22.706"/>
+það var ekki á á vikuáætlun þingsins að sinni # eins og er yfirleitt um stjórnarfrumvörp
+<Event desc="stjódnarfrumvörp" type="pronounce" extent="previous"/>
+ þó að þingmananmálin við séum vanir því þingmenn að þingmannamálin eru tekin upp með ákaflega skömmum fyrirvara
+<Sync time="33.427"/>
+</Turn>
+<Turn speaker="spk2" startTime="33.427" endTime="64.295">
+og þingflokksformenn # eftir þeim heimildum sem ég hef bestar voru ekki látnir vita # að þetta mál kæmi hér á á dagskrá í dag
+<Sync time="42.328"/>
+u þannig að það er ætlast til þess að menn ræði þetta menn hafi sem sé kynnt sér þetta u eða kynnt sér þetta á ný því að ýmsir voru nú búnir að lesa þetta # og undirbúið sig undir þessa umræðu # án þess að vera látnir af henni vita
+<Sync time="55.977"/>
+ég sá fyrst að vatnalögin væru á dagskrá í dag um ellefuleytið í gær þegar að ég af tilviljun # fór inn á á tölvuna # heima hjá mér
+<Sync time="64.295"/>
+</Turn>
+<Turn speaker="spk2" startTime="64.295" endTime="99.557">
+u það vekur líka athygli við þessa umræðu hér sem er á sem að iðnaðarráðherra hæstvirtur hóf að þegar hún hófst þá var aðeins einn # maður úr iðnaðarnefnd staddur # hér á u í þingsölum # háttvirtur þingmaður Einar_Már_Sigurðarson nú hefur annar bæst við # kom hér hlaupandi u háttvirtur þingmaður Jóhann_Ársælsson
+<Sync time="84.239"/>
+enginn stjórnarliði er viðstaddur umræðuna
+<Sync time="87.727"/>
+formaður iðnaðarnefndar hinn ungi # og æskuhreini
+<Event desc="æsku#hreini" type="pronounce" extent="previous"/>
+ vaski sveinn háttvirtur þingmaður Birkir_Jón_Jónsson # hann er sennilega eins og unglinga er siður ennþá sofandi # og hefur ekki verið látinn vita af umræðunni
+</Turn>
+<Turn speaker="spk1 spk8" startTime="99.557" endTime="105.901">
+<Sync time="99.557"/>
+<Who nb="1"/>
+þó á hann að # þó er honum ætlað að að leiða málið í # þó er honum læ- honum ætlað að leiða málið
+<Who nb="2"/>
+
+<Event desc="óskýrt" type="pronounce" extent="begin"/>
+þó að hann væri það ungur
+<Event desc="óskýrt" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="105.901" endTime="117.668">
+<Sync time="105.901"/>
+ja ungt fólk i 
+<Comment desc="ræskir sig"/>
+ það þarf að hvíla sig líka eins og hæstvirtur iðnaðarráðherra veit sem að enn er enn er á á á ungum árum og er nýkomin úr mikilli hvíldarferð í til Flórídafylkis í Bandaríkjunum
+<Sync time="117.668"/>
+þar sem hún að vísu hvíldist ekki betur en svo að hún varð að skipta sér aðeins af af stjórnmálaástandinu hér á Íslandi enda orðið það alvarlegt að iðnaðarráðherra varð að að grípa fram í 
+<Event desc="saman" type="pronounce" extent="begin"/>
+þannig að það
+<Event desc="saman" type="pronounce" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="117.668" endTime="159.652">
+ er von að aðrir þurfi hvíld en en hátt- háttvirtur hæstvirtur ráðherra
+<Sync time="129.996"/>
+en að öllu gamni slepptu að þá er það auðvitað ekki alvöruumræða sem fer þannig fram að að ráðherra kemur hér og og síðan er enginn í salnum sem að af þeim sem af þeim meiri hluta sem að um málið á að véla
+<Sync time="141.061"/>
+ég held því # forseti að nú sé ráðlegast að fresta þessari umræðu # að lokinni skörulegri ræðu frá Kolbrúnu_Halldórsdóttur og framsögu hæstvirts háttvirts þingmanns og framsögu hæstvirts ráðherra og fer fram á það að að forseti fresti þessari u umræðu hér
+<Sync time="159.652"/>
+</Turn>
+<Turn speaker="spk2" startTime="159.652" endTime="193.933">
+u m sit- sá sem hér situr í forsetastól # er # sá eini úr forsætisnefnd sem hér er inni
+<Sync time="169.26"/>
+e 
+<Event desc="hljóð í bakgrunni" type="noise" extent="begin"/>
+sá sem kjörinn var forseti þingsins hann sér ekki hér í salnum og hefur ekki sést til hans hér í þinghúsinu í morgun þannig að ég sé ekki betur en að að að forseti sé nauðbeygður að þessu sinni til að að taka þá ákvörðun einn og sjálfur
+<Sync time="181.638"/>
+og ég fer fram á það að að þessari umræðu verði frestað og tekin fyrir u u # síðar # á dagskrá þingsins # k- þe- k- k- hvenær sem mönnum þykir það hyggilegt
+<Sync time="191.287"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="193.933" endTime="235.77">
+<Sync time="193.933"/>
+i forseti vill i upplýsa það að i # að hafa tekið eftir og hlustað á athugasemdir háttvirts áttunda þingmanns Reykjavíkurkjödæmis_norður Kolbrúnar_Halldórsdóttur # gagnrýna hér fundarstjórn og og sömuleiðis hlustað á athugasemdir e háttvirts e háttvirts e sjöunda þingmanns Reykjavíkjurkjördæmis_suður varðandi fundarstjórn 
+<Sync time="218.186"/>
+og vill upplýsa það áður en að lengra er haldið því fleiri þingmenn háttvirtir þingmenn hafa kvatt sér hljóðs varðandi fundarstjórn forseta að e að forseti tekur undir þá gagnrýni að það sé mjög óheppilegt að taka svo stórt mál á dagskrá með svo skömmum fyrirvara 
+<Sync time="235.77"/>
+</Turn>
+<Turn speaker="spk1" startTime="235.77" endTime="286.386">
+i málinu # var dreift á þinginu þann sjöunda desember en þetta er stórt mál og og það er eðlilegt að þingmenn vilji hafa tíma til þess að undirbúa sig þó að tími sé liðinn frá því að því var dreift
+<Sync time="250.66"/>
+en vegna veikinda sem að hafa sett spor # hér á alla dagskrá # þingsins í þessari viku svo og í dag # bæði vegna veikinda þingmanna og ráðherra og fjarveru þá hefur dagskráin farið hér úr skorðum
+<Sync time="265.165"/>
+og við munum # skoða # þá # beiðni sem að hér hefur komið fram hvernig málinu vindur áfram en til máls tekur háttvirtur sjöundi þingmaður Norðausturkjördæmis um fundarstjórn forseta
+<Sync time="278.83"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="286.386" endTime="313.079">
+<Sync time="286.386"/>
+frú forseti
+<Sync time="288.294"/>
+ég held að það sé nauðsynlegt að taka undir # óskir háttvirts þingmanns Marðar_Árnasonar
+<Sync time="293.296"/>
+það er afar óeðlilegt að svo stórt og viðamikið mál skuli # vera hér nær því laumað á dagskrá með engum fyrirvara
+<Sync time="301.07"/>
+það er ekki # kemur ekki fram á vikudagskrá 
+<Sync time="303.931"/>
+það kemur ekki fram á fundum formanna þingflokka með forsetum á mánudag og það er ekki rætt sérstaklega við þingflokksformenn í gær þegar að verið er að breyta hér dagskrá
+<Sync time="313.079"/>
+</Turn>
+<Turn speaker="spk7" startTime="313.079" endTime="346.962">
+það er rétt auðvitað og sem við höfum vitað sem kom fram hjá # frú forseta að að hér hafa orðið veikindi hjá ráðherrum sem hafa # valdið breytingum á dagskrá # og við höfum verið að fá tilkynningar um breytingar þar sem þetta er ekki tilgreint sérstaklega
+<Sync time="328.405"/>
+þannig að það er afar sérstakt að þetta mál skuli vera hér sett á dagskrá með þessum hætti
+<Sync time="333.693"/>
+það er einnig eðlilegt að # benda á það að gert er ráð fyrir því að # það komi hér annað frumvarp sem að # mun tengjast þessu máli mjög # verulega og því eðlilegt í raun og veru að þau væru rædd hér samhliða
+<Sync time="346.962"/>
+</Turn>
+<Turn speaker="spk7" startTime="346.962" endTime="380.623">
+ég verð því að fara fram á það # við virðulegan forseta # að ef að # forseti treystir sér ekki til þess að fresta umræðunni nú # að það verði þá að minnsta kosti gefin yfirlýsing um það # að umræðunni verði ekki lokið
+<Sync time="361.055"/>
+þannig að fyrstu umræðu verði ekki lokið þó að henni verði eitthvað
+<Event desc="einkvað" type="pronounce" extent="previous"/>
+ fram haldið þá verði # möguleiki skapaður á því að það megi halda henni áfram síðar
+<Sync time="371.182"/>
+það er til dæmis afar óeðlilegt eins og kom fram í máli háttvirts þingmanns Marðar_Árnasonar # að hér erum við aðeins tveir úr # háttvirtri iðnaðarnefnd staddir í þingsalnum
+<Sync time="380.623"/>
+</Turn>
+<Turn speaker="spk7" startTime="380.623" endTime="412.424">
+það er afar óeðlilegt að til dæmis # hin lá- að sú lágmarkskrafa þessari lágmarkskröfu sé ekki fullnægt að formaður # nefndarinnar sé viðstaddur umræðuna auðvitað getur formaður verið forfallaður en þá er auðvitað lágmark að það sé einhver annar stjórnarliði viðstaddur umræðuna
+<Sync time="396.799"/>
+við höfum nú yfirleitt ekki verið mjög frek til þess að óska eftir því að allir stjórnarliðar úr nefndum séu mættir # en það er afar fátítt að það sé enginn # enginn stjórnarliði
+<Event desc="stjórdnar#liði" type="pronounce" extent="previous"/>
+ úr nefnd þegar að e- svo stórt mál er rætt # og jafnvel þó það þó smærra væri
+<Sync time="412.424"/>
+</Turn>
+<Turn speaker="spk7" startTime="412.424" endTime="425.385">
+þannig að ég vil ítreka frú forseti þá ósk sem fram hefur komið að umræðunni sé frestað ef ekki er hægt að verða við því nú þegar þá sé gefin yfirlýsing um það að umræðunni verði ekki lokið
+<Sync time="423.018"/>
+
+<Comment desc="fótatak"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="425.385" endTime="436.087">
+<Sync time="425.385"/>
+u # um- til máls tekur háttvirtur annar tíundi þingmaður Reykjavíkurkjördæmis_suður Ágúst_Ólafur_Ágústsson um fundarstjórn forseta
+<Sync time="436.087"/>
+en forseti vill geta þess að 
+<Event desc="saman" type="pronounce" extent="begin"/>
+ég mun
+<Event desc="saman" type="pronounce" extent="begin"/>
+ 
+<Event desc="émun" type="pronounce" extent="previous"/>
+</Turn>
+<Turn speaker="spk1" startTime="436.087" endTime="469.938">
+ taka tillit til þeirra ábendinga sem að hér hafa komið fram og vegna þeirrar stöðu sem að við sem að þingið stendur frammi fyrir að hér eru fáir mættir til að taka þátt í þessari umræðu mikilvægu umræðu og og mun verða við þeirri beiðni að ljúka ekki umræðu núna fyrir hádegið enda er rétt að þeir sem að hafa sett sig á mælendaskrá geti lokið sínu sínum sínum framsögum núna og og ljúka því síðar
+<Sync time="464.751"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="469.938" endTime="495.146">
+<Sync time="469.938"/>
+frú forseti
+<Sync time="470.919"/>
+ég vil auðvitað byrja að fagna því að forseti # hæstvirtur hafi tekið þessa ákvörðun að umræðunni skal ekki ljúka hér á eftir
+<Sync time="478.024"/>
+en ég held að þetta sé einnig hluti af stærra vandamáli # sem hér er á ferðinni
+<Sync time="483.1"/>
+u við þingmenn höfum margoft bent á þetta vinnufyrirkomulag sem á sér stað hér á þingi hversu óeðlilegt það er og hversu mikið það bitnar á vönduðum vinnubrögðum þingsins
+<Sync time="495.146"/>
+</Turn>
+<Turn speaker="spk4" startTime="495.146" endTime="533.695">
+það hefur margoft verið bent á það að a- þetta á hið óeðlilega í þessu sambandi að dagskrá þingsins liggi ekki fyrir fyrr en kvöldið áður
+<Sync time="505.145"/>
+og það finnst mér alveg ótæk vinnubrögð
+<Sync time="508.002"/>
+þetta snertir undirbúning þingmanna
+<Sync time="510.165"/>
+það getur tekið meira en eina kvöldstund að undirbúa fyrir ve- veigamikil mál og ég skil ekki af hverju dagskrá þingsins geti ekki legið fyrir með ítarlegri
+<Event desc="ítalega" type="pronounce" extent="previous"/>
+ hætti en raun ber vitni með lengri fyrirvara heldur en kvöldið áður
+<Sync time="524.104"/>
+og þetta er ekki eitthvað einhver krafa um formsatriði eða tæknileg atriði þetta snertir þinglega meðferð mála sem sem um um er að ræða hér á þingi
+<Sync time="533.695"/>
+</Turn>
+<Turn speaker="spk4" startTime="533.695" endTime="558.251">
+þingið hefur legið undir sök að vanda sig ekki nægilega vel við vald- lagasetningu og ítrekað hefur framkvæmdavaldið orðið gert sekt
+<Event desc="segt" type="pronounce" extent="previous"/>
+ sekt um það að setja lög sem eru stjórnarskrárbrot # í mun meira mæli en til dæmis a- a- aðrar Norðurlandaþjóðir og meðal annars má rekja það að við vöndum okkur ekki nógu mikið hér í þinginu # vegna meðal annars tímaskorts og sú ábyrgð skrifast eingöngu á ráðherrana hæstvirtra
+<Sync time="558.251"/>
+þeir koma hérna
+<Event desc="hédna" type="pronounce" extent="previous"/>
+</Turn>
+<Turn speaker="spk4" startTime="558.251" endTime="600.3">
+ m- iðulega með mál með skömmum fyrirvara oft seint á vetri og ætlast til að þetta sé mál mörg mál viðkvæm mál stór mál séu afgreidd með þeim hraði að það nær ekki að fá þá viðunandi meðferð sem um er að ræða
+<Sync time="572.756"/>
+mér finnst stundum að háttvirtir þingmenn Framsóknarflokks og Sjálfstæðisflokks # sem verja þessa ríkisstjórn frá falli # átti sig ekki á því að Alþingi Íslendinga er með löggjafarvaldið
+<Sync time="585.266"/>
+það liggur ekki hjá ráðherrunum
+<Sync time="587.357"/>
+en það er ekki vottur af aðhaldi hjá þessum blessaða þingmeirihluta gagnvart sínum eigin ráðherrum
+<Sync time="592.899"/>
+og við þurfum að haga okkar störfum þannig að þetta þing sé ekki einfaldlega einhvers konar afgreiðslustofnun fyrir framkvæmdarvaldið
+<Sync time="600.3"/>
+</Turn>
+<Turn speaker="spk4" startTime="600.3" endTime="636.755">
+það ég held að þetta sé hluti af stærra vandamáli þetta er hlut- hluti af því hvernig samskipti ráðherra og þingheims er og við þurfum að breyt- breyta þessu vinnulagi við þurfum að skipuleggja okkur lengra fram í tímann við þurfum að fá ráðherrana með í þann leik og að þeir leggi fram málin sín með nægum fyrirvara og þau komist á dagskrá
+<Event desc="dassgrá" type="pronounce" extent="previous"/>
+ með meiri fyrirvara en raun ber vitni
+<Sync time="619.443"/>
+við þurfum að skoða það af hverju að af hverju þingfundir hefja ekki fyrr á fyrr á morgnana
+<Event desc="modnana" type="pronounce" extent="previous"/>
+ en raun ber vitni þeir he- hefjast nú iðulega eftir hádegi því því reyndar eru morgnarnir
+<Event desc="modnanir" type="pronounce" extent="previous"/>
+ teknir fyrir nefndarstörf en hins vegar er nefndarfall ítrekað í mjög mörgum nefndum vegna þess að það er svo fá mál sem stjórnarmeirihlutinn vill hleypa úr nefndunum
+<Sync time="636.755"/>
+</Turn>
+<Turn speaker="spk4" startTime="636.755" endTime="652.092">
+þannig að það eru ýmis atriði sem ég skil ekki af hverju menn ættu ekki að ráðast í að breyta því þetta kemur okkur öllum illa # að keyra málin með þessum þessum hætti í gegnum þingið og að fá ekki betri undirbúning við stór mál eins og hér hér er um að ræða
+<Sync time="650.918"/>
+
+<Comment desc="skrjáf í pappír"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="652.092" endTime="682.991">
+<Sync time="652.092"/>
+háttvirtur annar þingmaður Norðausturkjördæmis Jóhann_Ársælsson gerir athugasemd um fundarstjórn forseta 
+<Sync time="657.572"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+<Sync time="661.026"/>
+já hæstvirtur forseti 
+<Comment desc="ræskir sig"/>
+
+<Sync time="663.531"/>
+ég varð nú ekki var við að þetta mál væri komið á dagskrá fyrr en að ég # opnaði fyrir # sjónvarpið á skrifstofu minni # í morgun
+<Sync time="672.076"/>
+u kom reyndar seint heim var á fundi vestur á Snæfellsnesi og og gáði ekkert í tölvuna í morgun að þegar ég lagði af stað
+<Sync time="678.664"/>
+né heldur í nótt þegar ég kom heim # þannig að þetta kom mér að óvörum
+<Sync time="682.991"/>
+</Turn>
+<Turn speaker="spk1" startTime="682.991" endTime="714.414">
+öf- auðvitað vissi ég af þessum vatnalögum og hafði reyndar aðeins litið í þau en
+<Sync time="688.225"/>
+en það er nú með númer upp á fjögur_hundruð_og_eitthvað og og maður gerði svo sem ráð fyrir því að það yrði svona látið vita af því þegar að það kæmi að umræðunni
+<Sync time="698.456"/>
+u ég er í iðnaðarnefndinni og og meðgeng það hér með að ég er ekki tilbúinn með mína ræðu
+<Sync time="706.209"/>
+ég hef sett mig hér á mælendaskrá # til þess að að segja fáein orð um þetta mál ef að í þann harðbakka slær
+<Sync time="714.414"/>
+</Turn>
+<Turn speaker="spk1" startTime="714.414" endTime="766.867">
+en ef hæstvirtur forseti hefur tekið þá ákvörðun að fresta þessari umræðu # að þá u vil ég # náðarsamlegast fara fram á það að fá að geyma mína ræðu # þannig að það verði kannski eitthvað pínulítið meira vit í henni heldur en ef ég myndi halda hana núna
+<Sync time="729.688"/>
+en ég vil sko líka vegna # þess tilefnis sem þessi umræða gefur og það sem sagt var hér af af háttvirtum þingmanni
+<Event desc="þingmaði#manni" type="pronounce" extent="previous"/>
+ sem hér talaði síðastur # benda hæstvirtum forseta á það sem að ég hef reyndar oft bent á hér í sölum Alþingis # að það þarf að gera breytingar á á þinghaldinu með þeim hætti # að mál verði ekki drepin hér á hverju vori
+<Sync time="757.568"/>
+það myndi gjörbreyta möguleikum Alþingis til þess að afgreiða mál # ef að þau fengju að lifa hér tvö þing
+<Sync time="766.867"/>
+</Turn>
+<Turn speaker="spk1" startTime="766.867" endTime="818.673">
+þá hefðu nefndirnar # u tök á því að að klára vinnu við mál á # og þau væru þá tilbúin til til framhaldsvinnu á því hausti sem kæmi # en nefndir sætu ekki hér verklausar öll haust # ein- vegna þess að það er byrjað upp á nýtt með öll mál # og nefndirnar byrja ekki að taka á málunum fyrr en að búið er að fara með þau í gegnum fyrstu umræðu í þinginu
+<Sync time="791.303"/>
+og þetta eru sömu málin upp aftur og aftur og aftur
+<Sync time="794.818"/>
+ef að menn gerðu þessa einföldu breytingu á á lögum um þingsk- þingsköp sem gerðu það að verkum # að mál lifðu tvö þing # að þá þá væri hægt að # að koma miklu meira í verk # og nefndir þingsins gætu gætu haft haft u starfsmöguleika á haustin sem þær hafa ekki
+<Sync time="818.673"/>
+ég geri ráð fyrir því að allir þingmenn hér hafi upplifað 
+<Event desc="einhver ræskir sig" type="noise" extent="begin"/>
+það að fá
+<Event desc="einhver ræskir sig" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk1" startTime="818.673" endTime="828.816">
+ fá æðimörg # spjöld frá formönnum nefnda # þar sem að fundafall hefur orðið þetta haustið
+</Turn>
+<Turn speaker="spk1" startTime="828.816" endTime="836.494">
+<Sync time="828.816"/>
+til máls tekur háttvirtur sjöundi þingmaður Reykjavíkurkjördæmis_suður Mörður_Árnason um fundarstjórn forseta
+</Turn>
+<Turn speaker="spk2" startTime="836.494" endTime="866.65">
+<Sync time="836.494"/>
+forseti ég fagna þeirri ákvörðun að að umræðu um þetta mál verði frestað
+<Sync time="841.826"/>
+ég vil hins vegar segja það fyrir mig að ef að ég ætti kost á þá mundi ég frekar vilja flytja mitt mál # u síðar
+<Sync time="850.294"/>
+ég lei- ég ge- ég set það í vald fundarstjóra
+<Sync time="854.007"/>
+ég get auðvitað flutt hana núna # ég er ekki # u talsmaður míns flokks í u í u málum sem fjalla sem undir iðnaðarnefnd
+<Sync time="863.394"/>
+ég er í sjálfur í umhverfisnefndinni og hef þá aðkomu að þessu
+<Sync time="866.65"/>
+</Turn>
+<Turn speaker="spk2" startTime="866.65" endTime="889.875">
+ég get flutt hér no- se- komið hér með þær athugasemdir sem sem u ég hef við þetta # frumvarp að því leyti sem ég hef # lesið það og undirbúið sem að ég hef gert að nokkru leyti
+<Sync time="880.842"/>
+ég get gert það ef að forseti vill en en ég mundi óska eftir því ef hægt er að gera það frek- fremur síðar
+<Sync time="887.154"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="889.875" endTime="893.989">
+<Sync time="889.875"/>
+fleiri hafa ekki kvatt sér hljóðs um fundarstjórn forseta 
+<Comment desc="upptöku lokið"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

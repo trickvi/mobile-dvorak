@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Helga Birgisdóttir (Gunnar Hrafn Hrafnbjargarson)" audio_filename="004_31_01_05" version="4" version_date="051212">
+<Speakers>
+<Speaker id="spk1" name="036" check="no" type="female" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="029" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="037" check="no" type="female" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="002" check="no" type="female" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="Vatnalög, 1. umræða framhald / um fundarstjórn forseta 63. fundur"/>
+</Topics>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="453.956" topic="to1">
+<Turn startTime="0" endTime="5.274" speaker="spk1 spk2">
+<Sync time="0"/>
+<Who nb="1"/>
+fleiri hafa ekki kvatt sér hljóðs 
+<Event desc="bankað í borð" type="noise" extent="begin"/>
+umræðu
+<Event desc="bankað í borð" type="noise" extent="end"/>
+
+<Who nb="2"/>
+fundarstjórn forseta
+</Turn>
+<Turn speaker="spk1" startTime="5.274" endTime="15.133">
+<Sync time="5.274"/>
+hæst- háttvirtur u # sjöundi þingmaður Reykjavíkurkjördæmis_suður óskar eftir að gera athugasemd við fundarstjórn forseta
+<Sync time="13.98"/>
+
+<Comment desc="fótatak"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="15.133" endTime="36.786">
+<Sync time="15.133"/>
+
+<Comment desc="ræskir sig"/>
+ forseti
+<Sync time="16.358"/>
+u ég # í fyrri hluta umræðu þessa máls var sérstaklega beðið um það að umhverfisráðherra væri hér hæstvirtur staddur
+<Sync time="26.871"/>
+það var hann hér við 
+<Event desc="hljóð í bakgrunni" type="noise" extent="begin"/>
+upphaf þessarar umræðu og og var beint til hans ákveðnum spurningum # sem u # við gengum út frá þingmenn hér í salnum að yrði svarað
+<Sync time="36.786"/>
+og hefðum 
+<Comment desc="ræskir sig"/>
+</Turn>
+<Turn speaker="spk2" startTime="36.786" endTime="78.019">
+ og hefðum að sjálfsögðu u getað fallist á að víkja frá röð á mælendaskrá ef að ef að hæst- ef ð hæstvirtur umhverfisráðherra hefði þurft það til til að svara þeim spurningum sem fram voru komnar
+<Sync time="50.453"/>
+ég verð að lýsa furðu minni á því # 
+<Comment desc="ræskir sig"/>
+ að þetta skuli hafa gengið svona til og og
+<Sync time="57.927"/>
+ég held að hér hljóti að hafa orðið einhver mistök hjá við við fundarstjórnina eða við eða við meininguna hjá hæstvirtum umhverfisráðherra # sem ég þekki þó af góðu einu í í í þingstörfum og og # u og eiginlega skil ekki af hverju # er ekki hér enn eða að minnsta kosti svaraði ekki þeim spurningum sem beint var til hennar
+<Sync time="78.019"/>
+</Turn>
+<Turn speaker="spk2" startTime="78.019" endTime="111.575">
+það eru í þessu máli mjög mikilvægar spurningar sem varða umhverfisráðherrann og afstöðu hans til málsins og þátttöku hans í þeim og og 
+<Sync time="87.348"/>
+mér þykir mjög miður að þessi umræða henni skuli ljúka hér fyrstu umræðu # án þess að umhverfisráðherra geti hafi svarað u # um # þetta efni # 
+<Sync time="96.892"/>
+og treysti því þá að hann svari eða hans menn svari þá þeim spurningum sem sem til hans er beint annars vegar við meðferð málsins í iðnaðarnefnd og umhverfisnefnd sem ég held að hljóti að fá þetta mál til umfjöllunar og síðan í í annarri umræðu 
+<Sync time="111.575"/>
+það skulum við vona að umhverfisráðherra hæstvirtur sé hér við umræðuna
+<Event desc="hljóð í bakgrunni" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="111.575" endTime="124.018">
+ # vegna þess að þetta er mál sem hann beinlínis honum er skylt að taka þátt í
+<Sync time="121.549"/>
+
+<Comment desc="fótatak, skrjáf í pappír"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="124.018" endTime="146.064">
+<Sync time="124.018"/>
+i til að upplýsa það þá var hæstvirtur umhverfisráðherra hér og hl- hlýddi á umræðurnar frá því klukkan þrjú þar til rúmlega fimm að hún þurfti hæstvirtur ráðherra þurfti að fara til þess að sinna störfum á öðrum vettvangi
+<Sync time="138.696"/>
+til máls tekur hæstvirtur iðnaðarráðherrra um störf forseta # 
+<Event desc="fótatak" type="noise" extent="begin"/>
+um fundarstjórn forseta
+<Event desc="fótatak" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="146.064" endTime="172.261">
+<Sync time="146.064"/>
+já hæstvirtur forseti það er nú kannski óþarfi að vera að koma hér upp en
+<Sync time="149.209"/>
+en ég veit ekki um ferðir hæ- hæstvirts umhverfisráðherra en en vill bara leggja áherslu á það að auðvitað verður reynt að svara öllum þeim spurningum sem hér hafa komið fram og ekki hafa komið # tilheyrandi svör við í nefndinni og
+<Sync time="162.353"/>
+og mig langar líka til þess að halda því til haga að samkvæmt þingsköpum # 
+<Event desc="hljóð í bakgrunni" type="noise" extent="begin"/>
+að ef ég má leyf- með leyfi forseta aðeins lesa hérna
+<Event desc="hljóð í bakgrunni" type="noise" extent="end"/>
+ um fyrstu umræðu
+<Sync time="172.261"/>
+
+<Event desc="les" type="pronounce" extent="begin"/>
+</Turn>
+<Turn speaker="spk3" startTime="172.261" endTime="203.28">
+ 
+<Event desc="les" type="pronounce" extent="begin"/>
+við fyrstu umræðu skal ræða frumvarpið í heild sinni # þá er þeirri umræðu er lokið er leitað atkvæða um hvort það eigi að ganga til annarrar umræðu og nefndar # önnur umræða fer fram u fer eigi fram fyrr en einni nóttu eftir fyrstu umræðu eða útbýtingu nefndarálits og skal þá ræða greinar frumvarpsins og breytingartillögur við þær
+<Event desc="les" type="pronounce" extent="end"/>
+ og svo framvegis
+<Sync time="194.878"/>
+
+<Comment desc="einhver bankar í borð"/>
+ þannig að að kannski erum við að ganga of langt í miðað við þingsköpin að að að að ræða einstaka greinar í fyrstu umræðu
+<Sync time="203.28"/>
+</Turn>
+<Turn speaker="spk3" startTime="203.28" endTime="215.768">
+það er # greinilega hugsunin með þingskaparlögunum að að það skuli fyrst og fremst ræða þær í í nefnd 
+<Event desc="hljóð í bakgrunni" type="noise" extent="begin"/>
+#
+<Event desc="hljóð í bakgrunni" type="noise" extent="end"/>
+ einstaka greinar og síðan við við aðra umræðu
+<Sync time="213.874"/>
+
+<Comment desc="hljóð í bakgrunni, einhver bankar í borð"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="215.768" endTime="221.976">
+<Sync time="215.768"/>
+háttvirtur sjöundi þingmaður Reykjavíkurkjördæmis_suður Mörður_Árn- Mörður_Árnason gerir athugasemd við fundarstjórn forseta
+</Turn>
+<Turn speaker="spk2" startTime="221.976" endTime="236.900">
+<Sync time="221.976"/>
+forseti # það er þarft verk hjá hæstvirtum iðnaðarráðherra að lesa hér upp úr þingsköpunum 
+<Sync time="226.307"/>
+þetta er mér vel kunnugt af því að # af því ég er ungur þingmaður og nýr og hef þess vegna þurft að að leita mér aðstoðar í þingsköpunum # við vinnulag í þeim málum sem hér fara fram
+<Sync time="236.900"/>
+</Turn>
+<Turn speaker="spk2" startTime="236.900" endTime="273.844">
+og það er rétt # við fyrstu umræðu er segja þingsköpin að skuli ræða almennt # vegna þess auðvitað að þingmenn hafa ekki haft færi á að kynna sér bakgrunn og álit á einstökum greinum sem upp koma
+<Sync time="248.959"/>
+hvað er nú hið almennasta við þetta frumvarp sem hér liggur fyrir það er það hvar skuli hvar ski- þessu máli skuli skipað í í stjórnkerfinu
+<Sync time="257.285"/>
+u það eru þær breytingar sem að hafa orðið frá nítján_hundruð_tuttugu_og_þrjú og og frá frá því gamla bændasamfélagi sem stóð á sem stóð þar fyrir aftan og fram til okkar tíma
+<Sync time="268.439"/>
+það er stofnun umhverfisráðuneytisins og allt önnur stjórnsýsla í framhaldi af því 
+<Sync time="273.844"/>
+og þess vegna einmitt til þess að ræða frumvarpið á almennum nótum þá hefði umhverfisráðherra þurft að vera hér 
+<Event desc="hljóð í bakgrunni" type="noise" extent="begin"/>
+</Turn>
+<Turn speaker="spk2" startTime="273.844" endTime="299.73">
+ekki bara viðstaddur heldur
+<Event desc="hljóð í bakgrunni" type="noise" extent="end"/>
+ hæstvirtur heldur líka þurft að geta svarað þeim spurningum sem komu upp og vörðuðu fæstar einstakar greinar heldur frumvarpið almennt og síðan þær til dæmis hjá háttvirtum þingmanni Ástu_Ragnheiði_Jóhannesdóttur # sem vörðuðu einstakar greinar eða vörðuðu kafla sem byrjar á áttugustu_og_þriðju grein eru skipta mjög miklu máli fyrir frumvarpið almennt 
+<Sync time="299.73"/>
+</Turn>
+<Turn speaker="spk2" startTime="299.73" endTime="323.35">
+þar sem að í áttugustuogþriðju greininni og því er ósvarað af hálfu hæstvirts umhverfisráðherra og hæstvirts iðnaðarráðherra eru tiltekið bann um u á u u bann u á á það að u menga vötn með ýmsum hætti sem hefur verið tekið út og við höfum ekki fengið svör við því ennþá af hverju það var tekið út og hvar þá samsvarandi kafla er að finna í öðrum lögum sem er sjálfsagt að hæstvirtur umhverfisráðherra og hæstvirtur iðnaðar-_og_viðskiptaráðherra geri grein fyrir
+<Sync time="323.35"/>
+þannig að 
+<Event desc="hljóð í bakgrunni" type="noise" extent="begin"/>
+einmitt í í einmitt í framhaldi af ákvæðum þingskapa um að ræða skuli almennt að þá þarf að að reiða hér fram hæstvirtan umhverfisráðherra og svör hans við þeim spurningum
+<Event desc="hljóð í bakgrunni" type="noise" extent="end"/>
+</Turn>
+<Turn speaker="spk2" startTime="323.35" endTime="359.215">
+ sem komu upp vegna þess að þau koma ekki fram hér að þá munu þau koma fram síðar og þetta háttalag forseti # verður einmitt til þess að tefja störf þingsins og erfiða þau á allan hátt í í gegn anda þeirra þingskapa sem hæstvirtur iðnaðarráðherra # og viðskiptaráðherra # í einni og sömu persónunni # las hér upp áðan öllum til heilla og gagns
+<Sync time="357.134"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="359.215" endTime="367.745">
+<Sync time="359.215"/>
+þá gerir athugasemd um fundarstjórn forseta háttvirtur fjórði þingmaður Reykjavíkurkjördæmis_suður Ástheiður_Ragna_Jóhannesdóttir
+<Sync time="366.058"/>
+
+<Comment desc="fótatak"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="367.745" endTime="389.689">
+<Sync time="367.745"/>
+já frú forseti ég geri nú ekki kannski beinar athugasemdir við fundarstjórn forseta en # vil koma því að hér í þessari umræðu 
+<Event desc="hljóð í bakgrunni" type="noise" extent="begin"/>
+# að ég harma það að hæstvirtur umhverfisráðherra skuli ekki hafa treyst sér til þess að svara þessum tveim spurningum
+<Event desc="hljóð í bakgrunni" type="noise" extent="end"/>
+ sem að hér var u vísað til hennar
+<Sync time="383.895"/>
+en ég mun auðvitað kalla eftir svörum í iðnaðarnefndinni þar sem ég á sæti
+<Sync time="389.689"/>
+</Turn>
+<Turn speaker="spk4" startTime="389.689" endTime="426.595">
+við höfum auðvitað verið að ræða hér u þetta frumvarp í heild sinni sem þýðir auðvitað greinarnar allar þær eru auðvitað undir þegar að við ræðum frumvarpið í heild sinni
+<Sync time="399.585"/>
+og ekki virtist mér nú vanþörf á því að að 
+<Event desc="hljóð í bakgrunni" type="noise" extent="begin"/>
+ræða þetta í heild og og u ýmsar
+<Event desc="hljóð í bakgrunni" type="noise" extent="end"/>
+ greinarnar
+<Sync time="407.429"/>
+en mig langar til að nefna það hér # fyrst að við erum að ræða hér svona um efnismeðferð málsins að þá legg ég til hér að 
+<Event desc="hljóð í bakgrunni" type="noise" extent="begin"/>
+þetta mál fari til umhverfisnefndar til umsagnar
+<Event desc="hljóð í bakgrunni" type="noise" extent="end"/>
+
+<Sync time="421.067"/>
+að það sé fari ekki aðeins til iðnaðarnefndar heldur fari það einnig til umhverfisnefndar
+<Sync time="426.595"/>
+</Turn>
+<Turn speaker="spk4" startTime="426.595" endTime="449.756">
+þannig að að umhverfisnefnd # geti skoðað það og rætt það # hjá sér og það komi þá umsögn frá umhverfisnefndinni til iðnaðarnefndar um málið
+<Sync time="436.641"/>
+þannig ég hérna
+<Event desc="hédna" type="pronounce" extent="previous"/>
+ mun ekki halda þessu til streitu eða neitt óska eftir því að þessari umræðu verði frestað en vonast til þess að fá þessi svör # við þessum spurningum sem ég lagði hér fram þá inn í nefndina
+</Turn>
+<Turn speaker="spk1" startTime="449.756" endTime="453.956">
+<Sync time="449.756"/>
+
+<Comment desc="hljóð í bakgrunni"/>
+
+<Sync time="451.501"/>
+fleiri hafa ekki kvatt sér hljóðs 
+<Comment desc="upptöku lokið"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>
